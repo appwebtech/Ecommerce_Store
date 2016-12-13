@@ -210,7 +210,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
                         
                         
                         <a href="http://localhost:8888/Pro_E_Store/" rel="home">
-                        	<img class="site-logo" src="http://localhost:8888/Pro_E_Store/wp-content/themes/shopkeeper/images/shopkeeper-theme-logo-light.png" title="Fashion store" alt="Pro_E_Store" />
+                        	<img class="site-logo" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/logo_light.png" title="Fashion store" alt="Pro_E_Store" />
                                                         	<img class="sticky-logo" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/logo_light.png" title="Fashion store" alt="Pro_E_Store" />
                                                     </a>
                     
@@ -218,7 +218,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
                 </div><!-- .site-branding --> 
                 
                                     
-                <div class="site-tools  align_left">
+                <div class="site-tools offset align_left">
                     <ul>
                         
                                                 
@@ -234,8 +234,8 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
                                                 <li class="search-button">
                             <a class="tools_button">
                                 <span class="tools_button_icon">
-                                	                                    <img src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/favicon-e1481582717751.png">
-                                                                    </span>
+                                	                                    <i class="spk-icon-search"></i>
+									                                </span>
                             </a>
                         </li>
                                                 
@@ -284,7 +284,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 				
 									$('#site-top-bar').removeClass("hidden");
 					$('.site-header').removeClass("sticky");
-											$('.site-logo').attr('src', 'http://localhost:8888/Pro_E_Store/wp-content/themes/shopkeeper/images/shopkeeper-theme-logo-light.png');
+											$('.site-logo').attr('src', 'http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/logo_light.png');
 													
 			}	
 			
@@ -569,7 +569,8 @@ var wc_add_to_cart_variation_params = {"i18n_no_matching_variations_text":"Sorry
 		<li id="wp-admin-bar-new-user"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/user-new.php">User</a>		</li></ul></div>		</li>
 		<li id="wp-admin-bar-edit"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/post.php?post=25&#038;action=edit">Edit Page</a>		</li>
 		<li id="wp-admin-bar-vc_inline-admin-bar-link" class="vc_inline-link"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/post.php?vc_action=vc_inline&#038;post_id=25&#038;post_type=page">Edit with Visual Composer</a>		</li>
-		<li id="wp-admin-bar-revslider" class="revslider-menu"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/admin.php?page=revslider"><span class="rs-label">Slider Revolution</span></a>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-revslider" class="menupop revslider-menu"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/Pro_E_Store/wp-admin/admin.php?page=revslider"><span class="rs-label">Slider Revolution</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-revslider-default" class="ab-submenu">
+		<li id="wp-admin-bar-awt_ecommerce" class="revslider-sub-menu"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/admin.php?page=revslider&#038;view=slide&#038;id=new&#038;slider=1"><span class="rs-label" data-alias="awt_ecommerce">awt_ecommerce</span></a>		</li></ul></div>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
 		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost:8888/Pro_E_Store/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div>		</li>
 		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/Pro_E_Store/wp-admin/profile.php">Howdy, josembi<img alt='' src='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=26&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=52&amp;d=mm&amp;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
 		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://localhost:8888/Pro_E_Store/wp-admin/profile.php"><img alt='' src='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>josembi</span></a>		</li>
@@ -582,5 +583,5 @@ var wc_add_to_cart_variation_params = {"i18n_no_matching_variations_text":"Sorry
 </body>
 
 </html>
-<!-- Dynamic page generated in 1.776 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-12-13 20:22:19 -->
+<!-- Dynamic page generated in 0.875 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 22:45:48 -->
