@@ -228,7 +228,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
                                 <span class="tools_button_icon">
                                 	                                    <i class="spk-icon-cart-shopkeeper"></i>
 									                                </span>
-                                <span class="shopping_bag_items_number">0</span>
+                                <span class="shopping_bag_items_number">1</span>
                             </a>
                         </li>
                                                                                                 
@@ -683,6 +683,112 @@ jsFileLocation:"//localhost:8888/Pro_E_Store/wp-content/plugins/revslider/public
 		<div class="product_thumbnail_wrapper ">
 			
 			<div class="product_thumbnail with_second_image">
+				<a href="http://localhost:8888/Pro_E_Store/product/womens-lingerie/">
+					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/lingerie_1-350x435.jpg)"></span>
+					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/lingerie_4-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/lingerie_4-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/lingerie_4-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/lingerie_4-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/lingerie_4-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/lingerie_4-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
+			</div><!--.product_thumbnail-->
+			
+							            			
+							            			
+			
+            <a href="#" id="product_id_62" class="button getbowtied_product_quick_view_button" data-product_id="62">Quick View</a>			
+		</div><!--.product_thumbnail_wrapper-->
+				
+		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/womens-lingerie/">Women&#8217;s Lingerie</a></h3>
+		
+                <div class="archive-product-rating">
+			
+		</div>
+        
+       
+	
+			<div class="product_after_shop_loop">
+				
+				<div class="product_after_shop_loop_switcher">
+					
+					<div class="product_after_shop_loop_price">
+						
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>39.95</span></span>
+					</div>
+
+										
+					<div class="product_after_shop_loop_buttons">
+						</a><a rel="nofollow" href="http://localhost:8888/Pro_E_Store/product/womens-lingerie/" data-quantity="1" data-product_id="62" data-product_sku="AWT-41589-122016" class="button product_type_variable add_to_cart_button">Select options</a>					</div>
+
+										
+				</div>
+				
+			</div>
+
+		
+	
+</li>
+				
+					
+<li class="">
+   
+		
+
+				
+				
+				
+		<div class="product_thumbnail_wrapper ">
+			
+			<div class="product_thumbnail with_second_image">
+				<a href="http://localhost:8888/Pro_E_Store/product/womens-leather-shoulder-bag/">
+					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_1-350x435.jpg)"></span>
+					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
+			</div><!--.product_thumbnail-->
+			
+							
+	<span class="onsale">Sale!</span>
+            			
+							            			
+			
+            <a href="#" id="product_id_58" class="button getbowtied_product_quick_view_button" data-product_id="58">Quick View</a>			
+		</div><!--.product_thumbnail_wrapper-->
+				
+		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/womens-leather-shoulder-bag/">Womens Leather Shoulder Bag</a></h3>
+		
+                <div class="archive-product-rating">
+			
+		</div>
+        
+       
+	
+			<div class="product_after_shop_loop">
+				
+				<div class="product_after_shop_loop_switcher">
+					
+					<div class="product_after_shop_loop_price">
+						
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>130.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>99.95</span></ins></span>
+					</div>
+
+										
+					<div class="product_after_shop_loop_buttons">
+						</a><a rel="nofollow" href="/Pro_E_Store/?add-to-cart=58" data-quantity="1" data-product_id="58" data-product_sku="AWT-54274-122016" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>					</div>
+
+										
+				</div>
+				
+			</div>
+
+		
+	
+</li>
+				
+					
+<li class="">
+   
+		
+
+				
+				
+				
+		<div class="product_thumbnail_wrapper ">
+			
+			<div class="product_thumbnail with_second_image">
 				<a href="http://localhost:8888/Pro_E_Store/product/all-purpose-dress/">
 					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_2-350x435.jpg)"></span>
 					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
@@ -1006,5 +1112,5 @@ var wc_add_to_cart_variation_params = {"i18n_no_matching_variations_text":"Sorry
 </body>
 
 </html>
-<!-- Dynamic page generated in 1.057 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-12-14 22:51:05 -->
+<!-- Dynamic page generated in 0.921 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-14 23:29:56 -->
