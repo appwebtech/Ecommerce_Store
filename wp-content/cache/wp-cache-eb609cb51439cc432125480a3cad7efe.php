@@ -27,7 +27,7 @@
     <!-- ******************************************************************** -->
     
     				<script type="text/javascript">document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
-			<title>Mens Jeans Embroidery Trousers Jeans &#8211; Pro_E_Store</title>
+			<title>Silver Plated Crystal Chain Bracelet Women &#8211; Pro_E_Store</title>
 			<style>
 				.wishlist_table .add_to_cart, a.add_to_wishlist.button.alt { border-radius: 16px; -moz-border-radius: 16px; -webkit-border-radius: 16px; }			</style>
 			<script type="text/javascript">
@@ -36,7 +36,7 @@
 		<link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Pro_E_Store &raquo; Feed" href="http://localhost:8888/Pro_E_Store/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Pro_E_Store &raquo; Comments Feed" href="http://localhost:8888/Pro_E_Store/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Pro_E_Store &raquo; Mens Jeans Embroidery Trousers Jeans Comments Feed" href="http://localhost:8888/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pro_E_Store &raquo; Silver Plated Crystal Chain Bracelet Women Comments Feed" href="http://localhost:8888/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost:8888\/Pro_E_Store\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
 			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -103,7 +103,7 @@ img.emoji {
 <script type='text/javascript' src='http://localhost:8888/Pro_E_Store/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.0.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/Pro_E_Store\/product\/mens-jeans-embroidery-trousers-jeans\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/localhost:8888\/Pro_E_Store\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/Pro_E_Store\/product\/silver-plated-crystal-chain-bracelet-women\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/localhost:8888\/Pro_E_Store\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='//localhost:8888/Pro_E_Store/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.9'></script>
@@ -111,14 +111,14 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 <link rel='https://api.w.org/' href='http://localhost:8888/Pro_E_Store/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/Pro_E_Store/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/Pro_E_Store/wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='Infinity Leather &#038; Beads Bracelet (Unisex)' href='http://localhost:8888/Pro_E_Store/product/infinity-leather-beads-bracelet-unisex/' />
-<link rel='next' title='Men&#8217;s Calvin Klein (Relaxed)' href='http://localhost:8888/Pro_E_Store/product/mens-calvin-klein-relaxed/' />
+<link rel='prev' title='Maasai Bracelets and Necklaces' href='http://localhost:8888/Pro_E_Store/product/maasai-bracelets-and-necklaces/' />
+<link rel='next' title='Crystal Bangle Gold Plated' href='http://localhost:8888/Pro_E_Store/product/crystal-bangle-gold-plated/' />
 <meta name="generator" content="WordPress 4.7" />
 <meta name="generator" content="WooCommerce 2.6.9" />
-<link rel="canonical" href="http://localhost:8888/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/" />
-<link rel='shortlink' href='http://localhost:8888/Pro_E_Store/?p=204' />
-<link rel="alternate" type="application/json+oembed" href="http://localhost:8888/Pro_E_Store/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2FPro_E_Store%2Fproduct%2Fmens-jeans-embroidery-trousers-jeans%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://localhost:8888/Pro_E_Store/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2FPro_E_Store%2Fproduct%2Fmens-jeans-embroidery-trousers-jeans%2F&#038;format=xml" />
+<link rel="canonical" href="http://localhost:8888/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/" />
+<link rel='shortlink' href='http://localhost:8888/Pro_E_Store/?p=170' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost:8888/Pro_E_Store/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2FPro_E_Store%2Fproduct%2Fsilver-plated-crystal-chain-bracelet-women%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost:8888/Pro_E_Store/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2FPro_E_Store%2Fproduct%2Fsilver-plated-crystal-chain-bracelet-women%2F&#038;format=xml" />
     <script type="text/javascript">
         var shopkeeper_catalogMode = 0;
     </script>
@@ -145,7 +145,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 			</style>
 		<!-- ******************************************************************** --><!-- * Theme Options Styles ********************************************* --><!-- ******************************************************************** --><style>/***************************************************************//* Body ********************************************************//***************************************************************/.st-content {background-color:#fff;background-repeat:;background-position:;background-size:;background-attachment:;}/***************************************************************//* Fonts *******************************************************//***************************************************************/h1, h2, h3, h4, h5, h6,.comments-title,.comment-author,#reply-title,#site-footer .widget-title,.accordion_title,.ui-tabs-anchor,.products .button,.site-title a,.post_meta_archive a,.post_meta a,.post_tags a,#nav-below a,.list_categories a,.list_shop_categories a,.main-navigation > ul > li > a,.main-navigation .mega-menu > ul > li > a,.more-link,.top-page-excerpt,.select2-search input,.product_after_shop_loop_buttons a,.woocommerce .products-grid a.button,.page-numbers,input.qty,.button,button,.button_text,input[type="button"],input[type="reset"],input[type="submit"],.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page a.button.alt,.woocommerce-page button.button.alt,.woocommerce-page input.button.alt,.woocommerce-page #respond input#submit.alt,.woocommerce-page #content input.button.alt,.yith-wcwl-wishlistexistsbrowse.show a,.share-product-text,.tabs > li > a,label,.comment-respond label,.product_meta_title,.woocommerce table.shop_table th,.woocommerce-page table.shop_table th,#map_button,.coupon_code_text,.woocommerce .cart-collaterals .cart_totals tr.order-total td strong,.woocommerce-page .cart-collaterals .cart_totals tr.order-total td strong,.cart-wishlist-empty,.return-to-shop .wc-backward,.order-number a,.account_view_link,.post-edit-link,.from_the_blog_title,.icon_box_read_more,.vc_pie_chart_value,.shortcode_banner_simple_bullet,.shortcode_banner_simple_height_bullet,.category_name,.woocommerce span.onsale,.woocommerce-page span.onsale,.out_of_stock_badge_single,.out_of_stock_badge_loop,.page-numbers,.page-links,.add_to_wishlist,.yith-wcwl-wishlistaddedbrowse,.yith-wcwl-wishlistexistsbrowse,.filters-group,.product-name,.woocommerce-page .my_account_container table.shop_table.order_details_footer tr:last-child td:last-child .amount,.customer_details dt,.widget h3,.widget ul a,.widget a,.widget .total .amount,.wishlist-in-stock,.wishlist-out-of-stock,.comment-reply-link,.comment-edit-link,.widget_calendar table thead tr th,.page-type,.mobile-navigation a,table thead tr th,.portfolio_single_list_cat,.portfolio-categories,.shipping-calculator-button,.vc_btn,.vc_btn2,.vc_btn3,.offcanvas-menu-button .menu-button-text,.account-tab-item .account-tab-link,.account-tab-list .sep,ul.order_details li span,ul.order_details.bacs_details li,.widget_calendar caption,.widget_recent_comments li a,.edit-account legend,.widget_shopping_cart li.empty,.cart-collaterals .cart_totals .shop_table .order-total .woocommerce-Price-amount,.woocommerce table.cart .cart_item td a,.woocommerce #content table.cart .cart_item td a,.woocommerce-page table.cart .cart_item td a,.woocommerce-page #content table.cart .cart_item td a,.woocommerce table.cart .cart_item td span,.woocommerce #content table.cart .cart_item td span,.woocommerce-page table.cart .cart_item td span,.woocommerce-page #content table.cart .cart_item td span,.woocommerce-MyAccount-navigation ul li,.cd-quick-view .cd-item-info .product_infos .quickview-badges .onsale{font-family:'NeueEinstellung',sans-serif;}body,p,#site-navigation-top-bar,.site-title,.widget_product_search #searchsubmit,.widget_search #searchsubmit,.widget_product_search .search-submit,.widget_search .search-submit,#site-menu,.copyright_text,blockquote cite,table thead th,.recently_viewed_in_single h2,.woocommerce .cart-collaterals .cart_totals table th,.woocommerce-page .cart-collaterals .cart_totals table th,.woocommerce .cart-collaterals .shipping_calculator h2,.woocommerce-page .cart-collaterals .shipping_calculator h2,.woocommerce table.woocommerce-checkout-review-order-table tfoot th,.woocommerce-page table.woocommerce-checkout-review-order-table tfoot th,.qty,.shortcode_banner_simple_inside h4,.shortcode_banner_simple_height h4,.fr-caption,.post_meta_archive,.post_meta,.page-links-title,.yith-wcwl-wishlistaddedbrowse .feedback,.yith-wcwl-wishlistexistsbrowse .feedback,.product-name span,.widget_calendar table tbody a,.fr-touch-caption-wrapper,.woocommerce .login-register-container p.form-row.remember-me-row label,.woocommerce .checkout_login p.form-row label[for="rememberme"],.woocommerce .checkout_login p.lost_password,.form-row.remember-me-row a,.wpb_widgetised_column aside ul li span.count,.woocommerce td.product-name dl.variation dt,.woocommerce td.product-name dl.variation dd,.woocommerce td.product-name dl.variation dt p,.woocommerce td.product-name dl.variation dd p,.woocommerce-page td.product-name dl.variation dt,.woocommerce-page td.product-name dl.variation dd p,.woocommerce-page td.product-name dl.variation dt p,.woocommerce-page td.product-name dl.variation dd p,.woocommerce span.amount,.woocommerce ul#shipping_method label,.woocommerce .select2-container,.check_label,.woocommerce-page #payment .terms label,ul.order_details li strong,.woocommerce-order-received .woocommerce table.shop_table tfoot th,.woocommerce-order-received .woocommerce-page table.shop_table tfoot th,.woocommerce-view-order .woocommerce table.shop_table tfoot th,.woocommerce-view-order .woocommerce-page table.shop_table tfoot th,.widget_recent_comments li,.widget_shopping_cart p.total,.widget_shopping_cart p.total .amount,.mobile-navigation li ul li a,.woocommerce table.cart .cart_item td:before,.woocommerce #content table.cart .cart_item td:before,.woocommerce-page table.cart .cart_item td:before,.woocommerce-page #content table.cart .cart_item td:before{font-family:'Radnika',sans-serif;}/***************************************************************//* Custom Font sizes *******************************************//***************************************************************/h1, .woocommerce h1, .woocommerce-page h1 { font-size: 30.797px; }h2, .woocommerce h2, .woocommerce-page h2 { font-size: 23.101px; }h3, .woocommerce h3, .woocommerce-page h3 { font-size: 17.329px; }h4, .woocommerce h4, .woocommerce-page h4 { font-size: 13px; }h5, .woocommerce h5, .woocommerce-page h5 { font-size: 9.75px; }h6, .woocommerce h6, .woocommerce-page h6 { font-size: 7.319px; }.page-title.blog-listing,.woocommerce .page-title,.page-title,.single .entry-title,.woocommerce-cart .page-title,.woocommerce-checkout .page-title,.woocommerce-account .page-title{font-size: 41.041px;}.entry-title-archive{font-size: 30.659px;}.woocommerce #content div.product .product_title,.woocommerce div.product .product_title,.woocommerce-page #content div.product .product_title,.woocommerce-page div.product .product_title{font-size: 23.101px;}.woocommerce-checkout .content-area h3,.woocommerce-view-order h2,.woocommerce-edit-address h3,.woocommerce-edit-account legend,.woocommerce-order-received h2{font-size: 13px;}@media only screen and (min-width: 768px) {h1, .woocommerce h1, .woocommerce-page h1 { font-size: 54.487px; }h2, .woocommerce h2, .woocommerce-page h2 { font-size: 40.871px; }h3, .woocommerce h3, .woocommerce-page h3 { font-size: 30.659px; }h4, .woocommerce h4, .woocommerce-page h4 { font-size: 23px; }h5, .woocommerce h5, .woocommerce-page h5 { font-size: 17.25px; }h6, .woocommerce h6, .woocommerce-page h6 { font-size: 12.949px; }.page-title.blog-listing,.woocommerce .page-title,.page-title,.single .entry-title,.woocommerce-cart .page-title,.woocommerce-checkout .page-title,.woocommerce-account .page-title{font-size: 72.611px;}.entry-title-archive{font-size: 30.659px;}.woocommerce #content div.product .product_title,.woocommerce div.product .product_title,.woocommerce-page #content div.product .product_title,.woocommerce-page div.product .product_title{font-size: 40.871px;}.woocommerce-checkout .content-area h3,.woocommerce-view-order h2,.woocommerce-edit-address h3,.woocommerce-edit-account legend,.woocommerce-order-received h2{font-size: 23px;}}@media only screen and (min-width: 768px) {p,.woocommerce table.shop_attributes th,.woocommerce-page table.shop_attributes th,.woocommerce table.shop_attributes td,.woocommerce-page table.shop_attributes td,.woocommerce-review-link,.blog-isotope .entry-content-archive,.blog-isotope .entry-content-archive *{ font-size: 18px; }}/***************************************************************//* Body Text Colors  *******************************************//***************************************************************/body,table tr th,table tr td,table thead tr th,blockquote p,label,.woocommerce .woocommerce-breadcrumb a,.woocommerce-page .woocommerce-breadcrumb a,.select2-dropdown-open.select2-drop-above .select2-choice,.select2-dropdown-open.select2-drop-above .select2-choices,.select2-container .select2-choice,.select2-container,.big-select,.select.big-select,.list-centered li a,.post_meta_archive a,.post_meta a,.nav-next a,.nav-previous a,.blog-single h6,.page-description,.woocommerce #content nav.woocommerce-pagination ul li a:focus,.woocommerce #content nav.woocommerce-pagination ul li a:hover,.woocommerce #content nav.woocommerce-pagination ul li span.current,.woocommerce nav.woocommerce-pagination ul li a:focus,.woocommerce nav.woocommerce-pagination ul li a:hover,.woocommerce nav.woocommerce-pagination ul li span.current,.woocommerce-page #content nav.woocommerce-pagination ul li a:focus,.woocommerce-page #content nav.woocommerce-pagination ul li a:hover,.woocommerce-page #content nav.woocommerce-pagination ul li span.current,.woocommerce-page nav.woocommerce-pagination ul li a:focus,.woocommerce-page nav.woocommerce-pagination ul li a:hover,.woocommerce-page nav.woocommerce-pagination ul li span.current,.woocommerce table.shop_table th,.woocommerce-page table.shop_table th,.woocommerce .cart-collaterals .cart_totals h2,.woocommerce .cart-collaterals .cross-sells h2,.woocommerce-page .cart-collaterals .cart_totals h2,.woocommerce .cart-collaterals .cart_totals table tr.order-total td:last-child,.woocommerce-page .cart-collaterals .cart_totals table tr.order-total td:last-child,.woocommerce-checkout .woocommerce-info,.woocommerce-checkout h3,.woocommerce-checkout h2,.woocommerce-account h2,.woocommerce-account h3,.customer_details dt,/*.wpb_widgetised_column .widget:hover a,*/.wpb_widgetised_column .widget a,.wpb_widgetised_column .widget.widget_product_categories a:hover,.wpb_widgetised_column .widget.widget_layered_nav a:hover,.wpb_widgetised_column .widget.widget_layered_nav li,.portfolio_single_list_cat a,.gallery-caption-trigger,.woocommerce .widget_layered_nav ul li.chosen a,.woocommerce-page .widget_layered_nav ul li.chosen a,.widget_layered_nav ul li.chosen a,.woocommerce .widget_product_categories ul li.current-cat > a,.woocommerce-page .widget_product_categories ul li.current-cat > a,.widget_product_categories ul li.current-cat > a,.wpb_widgetised_column .widget.widget_layered_nav_filters a,.woocommerce-cart .cart-collaterals .cart_totals table .order-total td .amount,.widget_shopping_cart p.total,.widget_shopping_cart p.total .amount,.wpb_widgetised_column .widget_shopping_cart li.empty{color: #545454;}.woocommerce a.remove{color: #545454 !important;}.nav-previous-title,.nav-next-title,.post_tags a,.wpb_widgetised_column .tagcloud a,.products .add_to_wishlist:before{color: rgba(84,84,84,0.4);}.required/*,.woocommerce a.remove*/{color: rgba(84,84,84,0.4) !important;}.yith-wcwl-add-button,.yith-wcwl-wishlistaddedbrowse,.yith-wcwl-wishlistexistsbrowse,.share-product-text,.product_meta .sku,.product_meta a,.product_meta_separator,.woocommerce table.shop_attributes td,.woocommerce-page table.shop_attributes td,.woocommerce .woocommerce-breadcrumb,.woocommerce-page .woocommerce-breadcrumb,.tob_bar_shop,.post_meta_archive,.post_meta,del,.woocommerce .cart-collaterals .cart_totals table tr td:last-child,.woocommerce-page .cart-collaterals .cart_totals table tr td:last-child,.product-name .product-quantity,.woocommerce #payment div.payment_box,.wpb_widgetised_column .widget li,.wpb_widgetised_column .widget_calendar table thead tr th,.wpb_widgetised_column .widget_calendar table thead tr td,.wpb_widgetised_column .widget .post-date,.wpb_widgetised_column .recentcomments,.wpb_widgetised_column .amount,.wpb_widgetised_column .quantity,.products li:hover .add_to_wishlist:before,.product_after_shop_loop .price,.product_after_shop_loop .price ins,.wpb_wrapper .add_to_cart_inline del,.wpb_widgetised_column .widget_price_filter .price_slider_amount,.woocommerce td.product-name dl.variation dt,.woocommerce td.product-name dl.variation dd,.woocommerce td.product-name dl.variation dt p,.woocommerce td.product-name dl.variation dd p,.woocommerce-page td.product-name dl.variation dt,.woocommerce-page td.product-name dl.variation dd p,.woocommerce-page td.product-name dl.variation dt p,.woocommerce-page td.product-name dl.variation dd p{color: rgba(84,84,84,0.55);}.products a.button.add_to_cart_button.loading{color: rgba(84,84,84,0.55) !important;}.add_to_cart_inline .amount,.wpb_widgetised_column .widget,.wpb_widgetised_column .widget a:hover,.wpb_widgetised_column .widget.widget_product_categories a,.wpb_widgetised_column .widget.widget_layered_nav a,.widget_layered_nav ul li a,.widget_layered_nav,.wpb_widgetised_column aside ul li span.count,.shop_table.cart .product-price .amount,.woocommerce-cart .cart-collaterals .cart_totals table th,.woocommerce-cart .cart-collaterals .cart_totals table td,.woocommerce-cart .cart-collaterals .cart_totals table td .amount,.woocommerce ul#shipping_method label{color: rgba(84,84,84,0.8);}input[type="text"],input[type="password"],input[type="date"],input[type="datetime"],input[type="datetime-local"],input[type="month"], input[type="week"],input[type="email"], input[type="number"],input[type="search"], input[type="tel"],input[type="time"], input[type="url"],textarea,select,.chosen-container-single .chosen-single,.country_select.select2-container,.woocommerce form .form-row.woocommerce-validated .select2-container,.woocommerce form .form-row.woocommerce-validated input.input-text,.woocommerce form .form-row.woocommerce-validated select,.woocommerce form .form-row.woocommerce-invalid .select2-container,.woocommerce form .form-row.woocommerce-invalid input.input-text,.woocommerce form .form-row.woocommerce-invalid select,.country_select.select2-container,.state_select.select2-container,#coupon_code{border-color: rgba(84,84,84,0.1);}input[type="text"]:focus, input[type="password"]:focus,input[type="date"]:focus, input[type="datetime"]:focus,input[type="datetime-local"]:focus, input[type="month"]:focus,input[type="week"]:focus, input[type="email"]:focus,input[type="number"]:focus, input[type="search"]:focus,input[type="tel"]:focus, input[type="time"]:focus,input[type="url"]:focus, textarea:focus,select:focus,#coupon_code:focus,.chosen-container-single .chosen-single:focus,.woocommerce .product_infos .quantity input.qty,.woocommerce #content .product_infos .quantity input.qty,.woocommerce-page .product_infos .quantity input.qty,.woocommerce-page #content .product_infos .quantity input.qty,.post_tags a,.wpb_widgetised_column .tagcloud a,.coupon_code_wrapper,.woocommerce form.checkout_coupon,.woocommerce-page form.checkout_coupon,.woocommerce ul.digital-downloads:before,.woocommerce-page ul.digital-downloads:before,.woocommerce ul.digital-downloads li:after,.woocommerce-page ul.digital-downloads li:after,.widget_search .search-form,.woocommerce .widget_layered_nav ul li a:before,.woocommerce-page .widget_layered_nav ul li a:before,.widget_layered_nav ul li a:before,.woocommerce .widget_product_categories ul li a:before,.woocommerce-page .widget_product_categories ul li a:before,.widget_product_categories ul li a:before,.woocommerce-cart.woocommerce-page #content .quantity input.qty{border-color: rgba(84,84,84,0.15);}.list-centered li a,.woocommerce .cart-collaterals .cart_totals h2,.woocommerce .cart-collaterals .cross-sells h2,.woocommerce-page .cart-collaterals .cart_totals h2,.my_address_title,.woocommerce .shop_table.order_details tbody tr:last-child td,.woocommerce-page .shop_table.order_details tbody tr:last-child td,.woocommerce #payment ul.payment_methods li,.woocommerce-page #payment ul.payment_methods li,.comment-separator,.comment-list .pingback,.wpb_widgetised_column .widget,.search_result_item,.woocommerce div.product .woocommerce-tabs ul.tabs li:after,.woocommerce #content div.product .woocommerce-tabs ul.tabs li:after,.woocommerce-page div.product .woocommerce-tabs ul.tabs li:after,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li:after,.woocommerce .cart-collaterals .cart_totals .order-total td,.woocommerce .cart-collaterals .cart_totals .order-total th,.woocommerce-page .cart-collaterals .cart_totals .order-total td,.woocommerce-page .cart-collaterals .cart_totals .order-total th{border-bottom-color: rgba(84,84,84,0.15);}table tr td,.woocommerce table.shop_table td,.woocommerce-page table.shop_table td,.product_socials_wrapper,.woocommerce-tabs,.comments_section,.portfolio_content_nav #nav-below,.woocommerce .cart-collaterals .cart_totals .order-total td,.woocommerce .cart-collaterals .cart_totals .order-total th,.woocommerce-page .cart-collaterals .cart_totals .order-total td,.woocommerce-page .cart-collaterals .cart_totals .order-total th{border-top-color: rgba(84,84,84,0.15);}table.shop_attributes tr td,.wishlist_table tr td,.shop_table.cart tr td{border-bottom-color: rgba(84,84,84,0.1);}.product_meta,.woocommerce .cart-collaterals,.woocommerce-page .cart-collaterals,.checkout_right_wrapper,.track_order_form,.order-info{background: rgba(84,84,84,0.05);}.woocommerce-cart .cart-collaterals:before,.woocommerce-cart .cart-collaterals:after,.custom_border:before,.custom_border:after{background-image: radial-gradient(closest-side, transparent 9px, rgba(84,84,84,0.05) 100%);}.wpb_widgetised_column aside ul li span.count{background: rgba(84,84,84,0.05);}/*.wpb_widgetised_column aside ul li span.count{border-color: rgba(84,84,84,0.05);}*/.comments_section{background-color: rgba(84,84,84,0.01) !important;}h1, h2, h3, h4, h5, h6,.entry-title-archive a,.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a:hover,.woocommerce div.product .woocommerce-tabs ul.tabs li.active a:hover,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a:hover,.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a:hover,.woocommerce table.cart .product-name a,.product-title-link,.wpb_widgetised_column .widget .product_list_widget a{color: #000000;}.woocommerce div.product .woocommerce-tabs ul.tabs li a,.woocommerce #content div.product .woocommerce-tabs ul.tabs li a,.woocommerce-page div.product .woocommerce-tabs ul.tabs li a,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a{color: rgba(0,0,0,0.35);}.woocommerce #content div.product .woocommerce-tabs ul.tabs li a:hover,.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a:hover,.woocommerce-page div.product .woocommerce-tabs ul.tabs li a:hover{color: rgba(0,0,0,0.45);}.page-title:after{background: #000000;}/***************************************************************//* Main Color  *************************************************//***************************************************************/a,.comments-area a,.edit-link,.post_meta_archive a:hover,.post_meta a:hover,.entry-title-archive a:hover,blockquote:before,.no-results-text:before,.list-centered a:hover,.comment-reply i,.comment-edit-link i,.comment-edit-link,.filters-group li:hover,#map_button,.widget_shopkeeper_social_media a,.account-tab-link-mobile,.lost-reset-pass-text:before,.list_shop_categories a:hover,.add_to_wishlist:hover,.woocommerce div.product span.price,.woocommerce-page div.product span.price,.woocommerce #content div.product span.price,.woocommerce-page #content div.product span.price,.woocommerce div.product p.price,.woocommerce-page div.product p.price,.woocommerce #content div.product p.price,.woocommerce-page #content div.product p.price,.comment-metadata time,.woocommerce p.stars a.star-1.active:after,.woocommerce p.stars a.star-1:hover:after,.woocommerce-page p.stars a.star-1.active:after,.woocommerce-page p.stars a.star-1:hover:after,.woocommerce p.stars a.star-2.active:after,.woocommerce p.stars a.star-2:hover:after,.woocommerce-page p.stars a.star-2.active:after,.woocommerce-page p.stars a.star-2:hover:after,.woocommerce p.stars a.star-3.active:after,.woocommerce p.stars a.star-3:hover:after,.woocommerce-page p.stars a.star-3.active:after,.woocommerce-page p.stars a.star-3:hover:after,.woocommerce p.stars a.star-4.active:after,.woocommerce p.stars a.star-4:hover:after,.woocommerce-page p.stars a.star-4.active:after,.woocommerce-page p.stars a.star-4:hover:after,.woocommerce p.stars a.star-5.active:after,.woocommerce p.stars a.star-5:hover:after,.woocommerce-page p.stars a.star-5.active:after,.woocommerce-page p.stars a.star-5:hover:after,.yith-wcwl-add-button:before,.yith-wcwl-wishlistaddedbrowse .feedback:before,.yith-wcwl-wishlistexistsbrowse .feedback:before,.woocommerce .star-rating span:before,.woocommerce-page .star-rating span:before,.product_meta a:hover,.woocommerce .shop-has-sidebar .no-products-info .woocommerce-info:before,.woocommerce-page .shop-has-sidebar .no-products-info .woocommerce-info:before,.woocommerce .woocommerce-breadcrumb a:hover,.woocommerce-page .woocommerce-breadcrumb a:hover,.intro-effect-fadeout.modify .post_meta a:hover,.from_the_blog_link:hover .from_the_blog_title,.portfolio_single_list_cat a:hover,.widget .recentcomments:before,.widget.widget_recent_entries ul li:before,#placeholder_product_quick_view .product_title:hover,.wpb_widgetised_column aside ul li.current-cat > span.count{color: #ef6700;}@media only screen and (min-width: 40.063em) {.nav-next a:hover,.nav-previous a:hover{color: #ef6700;}}.widget_shopping_cart .buttons a.view_cart,.widget.widget_price_filter .price_slider_amount .button,.products a.button,.woocommerce .products .added_to_cart.wc-forward,.woocommerce-page .products .added_to_cart.wc-forward{color: #ef6700 !important;}.order-info mark,.login_footer,.post_tags a:hover,.with_thumb_icon,.wpb_wrapper .wpb_toggle:before,#content .wpb_wrapper h4.wpb_toggle:before,.wpb_wrapper .wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon,.wpb_wrapper .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon,.widget .tagcloud a:hover,.single_product_summary_related h2:after,.single_product_summary_upsell h2:after,.page-title.portfolio_item_title:after,#button_offcanvas_sidebar_left,#button_offcanvas_sidebar_left i,.thumbnail_archive_container:before,.from_the_blog_overlay,.select2-results .select2-highlighted,.wpb_widgetised_column aside ul li.chosen span.count,.woocommerce .widget_product_categories ul li.current-cat > a:before,.woocommerce-page .widget_product_categories ul li.current-cat > a:before,.widget_product_categories ul li.current-cat > a:before,#header-loader .bar{background: #ef6700;}@media only screen and (max-width: 40.063em) {.nav-next a:hover,.nav-previous a:hover{background: #ef6700;}}.woocommerce .widget_layered_nav ul li.chosen a:before,.woocommerce-page .widget_layered_nav ul li.chosen a:before,.widget_layered_nav ul li.chosen a:before,.woocommerce .widget_layered_nav ul li.chosen:hover a:before,.woocommerce-page .widget_layered_nav ul li.chosen:hover a:before,.widget_layered_nav ul li.chosen:hover a:before,.woocommerce .widget_layered_nav_filters ul li a:before,.woocommerce-page .widget_layered_nav_filters ul li a:before,.widget_layered_nav_filters ul li a:before,.woocommerce .widget_layered_nav_filters ul li a:hover:before,.woocommerce-page .widget_layered_nav_filters ul li a:hover:before,.widget_layered_nav_filters ul li a:hover:before,.woocommerce .widget_rating_filter ul li.chosen a:before{background-color: #ef6700;}.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,.woocommerce .quantity .plus,.woocommerce .quantity .minus,.woocommerce #content .quantity .plus,.woocommerce #content .quantity .minus,.woocommerce-page .quantity .plus,.woocommerce-page .quantity .minus,.woocommerce-page #content .quantity .plus,.woocommerce-page #content .quantity .minus,.widget_shopping_cart .buttons .button.wc-forward.checkout{background: #ef6700 !important;}.button,input[type="button"],input[type="reset"],input[type="submit"]{background-color: #ef6700 !important;}.product_infos .yith-wcwl-wishlistaddedbrowse a:hover,.product_infos .yith-wcwl-wishlistexistsbrowse a:hover,.shipping-calculator-button:hover,.products a.button:hover,.woocommerce .products .added_to_cart.wc-forward:hover,.woocommerce-page .products .added_to_cart.wc-forward:hover,.products .yith-wcwl-wishlistexistsbrowse:hover a,.products .yith-wcwl-wishlistaddedbrowse:hover a,.order-number a:hover,.account_view_link:hover,.post-edit-link:hover,.url:hover{color:  rgba(239,103,0,0.8) !important;}.product-title-link:hover{color:  rgba(0,0,0,0.8);}.button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,.woocommerce .product_infos .quantity .minus:hover,.woocommerce #content .product_infos .quantity .minus:hover,.woocommerce-page .product_infos .quantity .minus:hover,.woocommerce-page #content .product_infos .quantity .minus:hover,.woocommerce .quantity .plus:hover,.woocommerce #content .quantity .plus:hover,.woocommerce-page .quantity .plus:hover,.woocommerce-page #content .quantity .plus:hover{background: rgba(239,103,0,0.8) !important;}.post_tags a:hover,.widget .tagcloud a:hover,.widget_shopping_cart .buttons a.view_cart,.account-tab-link-mobile,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,.woocommerce .widget_product_categories ul li.current-cat > a:before,.woocommerce-page .widget_product_categories ul li.current-cat > a:before,.widget_product_categories ul li.current-cat > a:before,.widget_product_categories ul li a:hover:before,.widget_layered_nav ul li a:hover:before,.widget_product_categories ul li a:hover ~ .count,.widget_layered_nav ul li a:hover ~ .count,.cd-top{border-color: #ef6700;}.wpb_tour.wpb_content_element .wpb_tabs_nav  li.ui-tabs-active a,.wpb_tabs.wpb_content_element .wpb_tabs_nav li.ui-tabs-active a,.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a,.main-navigation ul ul li a:hover{border-bottom-color: #ef6700;}.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active,.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active{border-top-color: #ef6700;}/***************************************************************//* Top Bar *****************************************************//***************************************************************/#site-top-bar {height:43px;}#site-top-bar,#site-navigation-top-bar .sf-menu ul{background: #333333;}#site-top-bar,#site-top-bar a{color:#ffffff;}/***************************************************************//* 	Header *****************************************************//***************************************************************/.site-header{background: #000000;}@media only screen and (min-width: 63.9375em) {.site-header {background-color:#333333;background-repeat:;background-position:;background-size:;background-attachment:;}}@media only screen and (min-width: 63.9375em) {.site-branding img {height:40px;width:auto;}.site-header .main-navigation,.site-header .site-tools{height:40px;line-height:40px;}}@media only screen and (min-width: 63.9375em) {.site-header.sticky .main-navigation,.site-header.sticky .site-tools,.site-header.sticky .site-branding img{height:33px;line-height:33px;width:auto;}}@media only screen and (min-width: 63.9375em) {.site-header {padding-top:22px;}}@media only screen and (min-width: 63.9375em) {.site-header {padding-bottom:22px;}}@media only screen and (min-width: 63.9375em) {#page_wrapper.sticky_header .content-area,#page_wrapper.transparent_header .content-area{margin-top:127px;}.transparent_header .single-post-header .title,#page_wrapper.transparent_header .shop_header .page-title{padding-top: 127px;}.transparent_header .single-post-header.with-thumb .title{padding-top: 327px;}.transparent_header.sticky_header .page-title-shown .entry-header.with_featured_img,{margin-top: -212px;}.sticky_header .page-title-shown .entry-header.with_featured_img{margin-top: -127px;}.page-template-default .transparent_header .entry-header.with_featured_img,.page-template-page-full-width .transparent_header .entry-header.with_featured_img{margin-top: -212px;}}.site-header,.default-navigation,.main-navigation .mega-menu > ul > li > a{font-size: 13px;}.site-header,.main-navigation a,.site-tools ul li a,.shopping_bag_items_number,.wishlist_items_number,.site-title a,.widget_product_search .search-but-added,.widget_search .search-but-added{color:#ffffff;}.site-branding{border-color: #ffffff;}@media only screen and (min-width: 63.9375em) {.site-header,.main-navigation a,.site-tools ul li a,.shopping_bag_items_number,.wishlist_items_number,.site-title a,.widget_product_search .search-but-added,.widget_search .search-but-added{color:#ffffff;}.site-branding{border-color: #ffffff;}}@media only screen and (min-width: 63.9375em) {#page_wrapper.transparent_header.transparency_light .site-header,#page_wrapper.transparent_header.transparency_light .site-header .main-navigation a,#page_wrapper.transparent_header.transparency_light .site-header .site-tools ul li a,#page_wrapper.transparent_header.transparency_light .site-header .shopping_bag_items_number,#page_wrapper.transparent_header.transparency_light .site-header .wishlist_items_number,#page_wrapper.transparent_header.transparency_light .site-header .site-title a,#page_wrapper.transparent_header.transparency_light .site-header .widget_product_search .search-but-added,#page_wrapper.transparent_header.transparency_light .site-header .widget_search .search-but-added{color:#ffffff;}}@media only screen and (min-width: 63.9375em) {#page_wrapper.transparent_header.transparency_dark .site-header,#page_wrapper.transparent_header.transparency_dark .site-header .main-navigation a,#page_wrapper.transparent_header.transparency_dark .site-header .site-tools ul li a,#page_wrapper.transparent_header.transparency_dark .site-header .shopping_bag_items_number,#page_wrapper.transparent_header.transparency_dark .site-header .wishlist_items_number,#page_wrapper.transparent_header.transparency_dark .site-header .site-title a,#page_wrapper.transparent_header.transparency_dark .site-header .widget_product_search .search-but-added,#page_wrapper.transparent_header.transparency_dark .site-header .widget_search .search-but-added{color:#000000;}}/* sticky */@media only screen and (min-width: 63.9375em) {.site-header.sticky,#page_wrapper.transparent_header .site-header.sticky{background: #000000;}}@media only screen and (min-width: 63.9375em) {.site-header.sticky,.site-header.sticky .main-navigation a,.site-header.sticky .site-tools ul li a,.site-header.sticky .shopping_bag_items_number,.site-header.sticky .wishlist_items_number,.site-header.sticky .site-title a,.site-header.sticky .widget_product_search .search-but-added,.site-header.sticky .widget_search .search-but-added,#page_wrapper.transparent_header .site-header.sticky,#page_wrapper.transparent_header .site-header.sticky .main-navigation a,#page_wrapper.transparent_header .site-header.sticky .site-tools ul li a,#page_wrapper.transparent_header .site-header.sticky .shopping_bag_items_number,#page_wrapper.transparent_header .site-header.sticky .wishlist_items_number,#page_wrapper.transparent_header .site-header.sticky .site-title a,#page_wrapper.transparent_header .site-header.sticky .widget_product_search .search-but-added,#page_wrapper.transparent_header .site-header.sticky .widget_search .search-but-added{color:#ffffff;}.site-header.sticky .site-branding{border-color: #ffffff;}}@media only screen and (max-width: 63.9375em) {.site-logo {display:none;}.sticky-logo {display:block;}}/* header-centered-2menus *//* header-centered-menu-under */.transparent_header .with-featured-img{margin-top: -175px;}/***************************************************************//* Footer ******************************************************//***************************************************************/#site-footer{background: #042368;}#site-footer,#site-footer .copyright_text a{color:#ffffff;}#site-footer a,#site-footer .widget-title,.cart-empty-text,.footer-navigation-wrapper ul li:after{color:#ffffff;}/***************************************************************//* Breadcrumbs *************************************************//***************************************************************//***************************************************************//* Product Page Full Screen Description ************************//***************************************************************//********************************************************************//* Custom CSS *******************************************************//********************************************************************/</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 
-<body class="product-template-default single single-product postid-204 logged-in admin-bar no-customize-support woocommerce woocommerce-page wpb-js-composer js-comp-ver-4.12 vc_responsive">
+<body class="product-template-default single single-product postid-170 logged-in admin-bar no-customize-support woocommerce woocommerce-page wpb-js-composer js-comp-ver-4.12 vc_responsive">
 
 	
 	<div id="st-container" class="st-container">
@@ -246,7 +246,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
                                 <span class="tools_button_icon">
                                 	                                    <i class="spk-icon-cart-shopkeeper"></i>
 									                                </span>
-                                <span class="shopping_bag_items_number">2</span>
+                                <span class="shopping_bag_items_number">4</span>
                             </a>
                         </li>
                                                                                                 
@@ -345,17 +345,12 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 					 &gt; 		
 	
 		
-					<a href="http://localhost:8888/Pro_E_Store/product-category/mens/">Mens</a>		
+					<a href="http://localhost:8888/Pro_E_Store/product-category/bracelets/">Bracelets</a>		
 		
 					 &gt; 		
 	
 		
-					<a href="http://localhost:8888/Pro_E_Store/product-category/mens/jeans/">Jeans</a>		
-		
-					 &gt; 		
-	
-		
-					Mens Jeans Embroidery Trousers Jeans		
+					Silver Plated Crystal Chain Bracelet Women		
 		
 		
 	
@@ -365,8 +360,8 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 		   <div class="product_navigation">
 			   	<nav role="navigation" id="nav-below" class="post-navigation">      
                     
-        <div class="product-nav-previous"><a href="http://localhost:8888/Pro_E_Store/product/infinity-leather-beads-bracelet-unisex/" rel="prev"><i class="fa fa-angle-left"></i></a></div>
-        <div class="product-nav-next"><a href="http://localhost:8888/Pro_E_Store/product/mens-calvin-klein-relaxed/" rel="next"><i class="fa fa-angle-right"></i></a></div>
+        <div class="product-nav-previous"><a href="http://localhost:8888/Pro_E_Store/product/maasai-bracelets-and-necklaces/" rel="prev"><i class="fa fa-angle-left"></i></a></div>
+        <div class="product-nav-next"><a href="http://localhost:8888/Pro_E_Store/product/crystal-bangle-gold-plated/" rel="next"><i class="fa fa-angle-right"></i></a></div>
 
 	</nav><!-- #nav-below -->
 			   </div>
@@ -375,7 +370,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 </div><!-- .top_bar_shop-->
 
 
-<div itemscope itemtype="http://schema.org/Product" id="product-204" class="post-204 product type-product status-publish has-post-thumbnail product_cat-casual product_cat-jeans product_cat-mens product_tag-casual product_tag-jeans product_tag-mens first instock featured shipping-taxable purchasable product-type-variable has-default-attributes has-children">
+<div itemscope itemtype="http://schema.org/Product" id="product-170" class="post-170 product type-product status-publish has-post-thumbnail product_cat-bracelets product_tag-bracelets product_tag-casual product_tag-womens first instock sale taxable shipping-taxable purchasable product-type-simple">
 	<div class="row">
         <div class="large-12 xlarge-10 xxlarge-9 large-centered columns">     
 			<div class="product_content_wrapper">
@@ -393,7 +388,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
     		
             <div class="swiper-wrapper">
 
-				<div class="swiper-slide"><img width="70" height="87" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_Main-70x87.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="Jeans_Main" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_Main-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_Main-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_Main-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_Main-190x236.jpg 190w" sizes="(max-width: 70px) 100vw, 70px" /></div><div class="swiper-slide"><img width="70" height="87" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_1-70x87.jpg" class="attachment-shop_thumbnail size-shop_thumbnail" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_1-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_1-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_1-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_1-190x236.jpg 190w" sizes="(max-width: 70px) 100vw, 70px" /></div><div class="swiper-slide"><img width="70" height="87" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_3-70x87.jpg" class="attachment-shop_thumbnail size-shop_thumbnail" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_3-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_3-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_3-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_3-190x236.jpg 190w" sizes="(max-width: 70px) 100vw, 70px" /></div><div class="swiper-slide"><img width="70" height="87" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_4-70x87.jpg" class="attachment-shop_thumbnail size-shop_thumbnail" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_4-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_4-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_4-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_4-190x236.jpg 190w" sizes="(max-width: 70px) 100vw, 70px" /></div><div class="swiper-slide"><img width="70" height="87" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_5-70x87.jpg" class="attachment-shop_thumbnail size-shop_thumbnail" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_5-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_5-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_5-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_5-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_5-190x236.jpg 190w" sizes="(max-width: 70px) 100vw, 70px" /></div><div class="swiper-slide"><img width="70" height="87" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_6-70x87.jpg" class="attachment-shop_thumbnail size-shop_thumbnail" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_6-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_6-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_6-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_6-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_6-190x236.jpg 190w" sizes="(max-width: 70px) 100vw, 70px" /></div>                
+				<div class="swiper-slide"><img width="70" height="87" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-70x87.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="bracelet_3" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-190x236.jpg 190w" sizes="(max-width: 70px) 100vw, 70px" /></div><div class="swiper-slide"><img width="70" height="87" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_1-70x87.jpg" class="attachment-shop_thumbnail size-shop_thumbnail" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_1-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_1-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_1-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_1-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_1-190x236.jpg 190w" sizes="(max-width: 70px) 100vw, 70px" /></div><div class="swiper-slide"><img width="70" height="87" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_2-70x87.jpg" class="attachment-shop_thumbnail size-shop_thumbnail" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_2-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_2-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_2-570x705.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_2-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_2-190x236.jpg 190w" sizes="(max-width: 70px) 100vw, 70px" /></div>                
             </div><!-- /.swiper-wrapper -->
             
             <div class="pagination"></div>
@@ -408,7 +403,9 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 					<div class="large-5 columns">
 						<div class="product-images-wrapper">
 							
-<div class="featured_img_temp"><img width="570" height="600" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_Main-570x600.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" /></div>
+	<span class="onsale">Sale!</span>
+
+<div class="featured_img_temp"><img width="570" height="708" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-570x708.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-190x236.jpg 190w" sizes="(max-width: 570px) 100vw, 570px" /></div>
 <div class="images">
 
 	    
@@ -419,9 +416,9 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 						
 			<div class="easyzoom el_zoom">
                 
-            	<a data-fresco-group="product-gallery" data-fresco-options="fit: 'width'" class="zoom" href="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_Main.jpg">
+            	<a data-fresco-group="product-gallery" data-fresco-options="fit: 'width'" class="zoom" href="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507.jpg">
                 
-					<img width="570" height="600" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_Main-570x600.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" />                                    
+					<img width="570" height="708" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-570x708.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-190x236.jpg 190w" sizes="(max-width: 570px) 100vw, 570px" />                                    
             	</a>
            
             </div>
@@ -431,9 +428,9 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 								
 					<div class="easyzoom el_zoom">
                         
-                        <a data-fresco-group="product-gallery" data-fresco-options="fit: 'width'" class="zoom" href="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_1.jpg">
+                        <a data-fresco-group="product-gallery" data-fresco-options="fit: 'width'" class="zoom" href="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_1.jpg">
                     
-                            <img src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_1-190x236.jpg" data-src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_1-570x600.jpg" class="lazyOwl" alt="Jeans_1">
+                            <img src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_1-190x236.jpg" data-src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_1-570x708.jpg" class="lazyOwl" alt="bracelet_1">
                                                 
                         </a>
                         
@@ -443,45 +440,9 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 								
 					<div class="easyzoom el_zoom">
                         
-                        <a data-fresco-group="product-gallery" data-fresco-options="fit: 'width'" class="zoom" href="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_3.jpg">
+                        <a data-fresco-group="product-gallery" data-fresco-options="fit: 'width'" class="zoom" href="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_2.jpg">
                     
-                            <img src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_3-190x236.jpg" data-src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_3-570x600.jpg" class="lazyOwl" alt="Jeans_3">
-                                                
-                        </a>
-                        
-                    </div>
-                    
-                	                    
-								
-					<div class="easyzoom el_zoom">
-                        
-                        <a data-fresco-group="product-gallery" data-fresco-options="fit: 'width'" class="zoom" href="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_4.jpg">
-                    
-                            <img src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_4-190x236.jpg" data-src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_4-570x600.jpg" class="lazyOwl" alt="Jeans_4">
-                                                
-                        </a>
-                        
-                    </div>
-                    
-                	                    
-								
-					<div class="easyzoom el_zoom">
-                        
-                        <a data-fresco-group="product-gallery" data-fresco-options="fit: 'width'" class="zoom" href="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_5.jpg">
-                    
-                            <img src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_5-190x236.jpg" data-src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_5-570x708.jpg" class="lazyOwl" alt="Jeans_5">
-                                                
-                        </a>
-                        
-                    </div>
-                    
-                	                    
-								
-					<div class="easyzoom el_zoom">
-                        
-                        <a data-fresco-group="product-gallery" data-fresco-options="fit: 'width'" class="zoom" href="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_6.jpg">
-                    
-                            <img src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_6-190x236.jpg" data-src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_6-570x708.jpg" class="lazyOwl" alt="Jeans_6">
+                            <img src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_2-190x236.jpg" data-src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_2-570x705.jpg" class="lazyOwl" alt="bracelet_2">
                                                 
                         </a>
                         
@@ -506,13 +467,13 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 						<div class="product_infos">
 							
 							 <div class="product_summary_top">
-								<h1 itemprop="name" class="product_title entry-title">Mens Jeans Embroidery Trousers Jeans</h1>							</div><!--.product_summary_top-->
+								<h1 itemprop="name" class="product_title entry-title">Silver Plated Crystal Chain Bracelet Women</h1>							</div><!--.product_summary_top-->
 							
 							<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 
-	<p class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>74.99</span></p>
+	<p class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>34.99</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>33.99</span></ins></p>
 
-	<meta itemprop="price" content="74.99" />
+	<meta itemprop="price" content="33.99" />
 	<meta itemprop="priceCurrency" content="GBP" />
 	<link itemprop="availability" href="http://schema.org/InStock" />
 
@@ -525,32 +486,28 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 </div>
 </div>
 </div>
-<form class="variations_form cart" method="post" enctype='multipart/form-data' data-product_id="204" data-product_variations="[{&quot;variation_id&quot;:211,&quot;variation_is_visible&quot;:true,&quot;variation_is_active&quot;:true,&quot;is_purchasable&quot;:true,&quot;display_price&quot;:74.99,&quot;display_regular_price&quot;:74.99,&quot;attributes&quot;:{&quot;attribute_waist-eu&quot;:&quot;&quot;},&quot;image_src&quot;:&quot;http:\/\/localhost:8888\/Pro_E_Store\/wp-content\/uploads\/2016\/12\/Jeans_Main-570x600.jpg&quot;,&quot;image_link&quot;:&quot;http:\/\/localhost:8888\/Pro_E_Store\/wp-content\/uploads\/2016\/12\/Jeans_Main.jpg&quot;,&quot;image_title&quot;:&quot;Jeans_Main&quot;,&quot;image_alt&quot;:&quot;Jeans_Main&quot;,&quot;image_caption&quot;:&quot;&quot;,&quot;image_srcset&quot;:&quot;&quot;,&quot;image_sizes&quot;:&quot;(max-width: 570px) 100vw, 570px&quot;,&quot;price_html&quot;:&quot;&quot;,&quot;availability_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;weight&quot;:&quot; kg&quot;,&quot;dimensions&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;max_qty&quot;:null,&quot;backorders_allowed&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_downloadable&quot;:false,&quot;is_virtual&quot;:false,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;variation_description&quot;:&quot;&quot;},{&quot;variation_id&quot;:212,&quot;variation_is_visible&quot;:true,&quot;variation_is_active&quot;:true,&quot;is_purchasable&quot;:true,&quot;display_price&quot;:74.99,&quot;display_regular_price&quot;:74.99,&quot;attributes&quot;:{&quot;attribute_waist-eu&quot;:&quot;&quot;},&quot;image_src&quot;:&quot;http:\/\/localhost:8888\/Pro_E_Store\/wp-content\/uploads\/2016\/12\/Jeans_Main-570x600.jpg&quot;,&quot;image_link&quot;:&quot;http:\/\/localhost:8888\/Pro_E_Store\/wp-content\/uploads\/2016\/12\/Jeans_Main.jpg&quot;,&quot;image_title&quot;:&quot;Jeans_Main&quot;,&quot;image_alt&quot;:&quot;Jeans_Main&quot;,&quot;image_caption&quot;:&quot;&quot;,&quot;image_srcset&quot;:&quot;&quot;,&quot;image_sizes&quot;:&quot;(max-width: 570px) 100vw, 570px&quot;,&quot;price_html&quot;:&quot;&quot;,&quot;availability_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;weight&quot;:&quot; kg&quot;,&quot;dimensions&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;max_qty&quot;:null,&quot;backorders_allowed&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_downloadable&quot;:false,&quot;is_virtual&quot;:false,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;variation_description&quot;:&quot;&quot;},{&quot;variation_id&quot;:213,&quot;variation_is_visible&quot;:true,&quot;variation_is_active&quot;:true,&quot;is_purchasable&quot;:true,&quot;display_price&quot;:74.99,&quot;display_regular_price&quot;:74.99,&quot;attributes&quot;:{&quot;attribute_waist-eu&quot;:&quot;&quot;},&quot;image_src&quot;:&quot;http:\/\/localhost:8888\/Pro_E_Store\/wp-content\/uploads\/2016\/12\/Jeans_Main-570x600.jpg&quot;,&quot;image_link&quot;:&quot;http:\/\/localhost:8888\/Pro_E_Store\/wp-content\/uploads\/2016\/12\/Jeans_Main.jpg&quot;,&quot;image_title&quot;:&quot;Jeans_Main&quot;,&quot;image_alt&quot;:&quot;Jeans_Main&quot;,&quot;image_caption&quot;:&quot;&quot;,&quot;image_srcset&quot;:&quot;&quot;,&quot;image_sizes&quot;:&quot;(max-width: 570px) 100vw, 570px&quot;,&quot;price_html&quot;:&quot;&quot;,&quot;availability_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;weight&quot;:&quot; kg&quot;,&quot;dimensions&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;max_qty&quot;:null,&quot;backorders_allowed&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_downloadable&quot;:false,&quot;is_virtual&quot;:false,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;variation_description&quot;:&quot;&quot;},{&quot;variation_id&quot;:214,&quot;variation_is_visible&quot;:true,&quot;variation_is_active&quot;:true,&quot;is_purchasable&quot;:true,&quot;display_price&quot;:74.99,&quot;display_regular_price&quot;:74.99,&quot;attributes&quot;:{&quot;attribute_waist-eu&quot;:&quot;&quot;},&quot;image_src&quot;:&quot;http:\/\/localhost:8888\/Pro_E_Store\/wp-content\/uploads\/2016\/12\/Jeans_Main-570x600.jpg&quot;,&quot;image_link&quot;:&quot;http:\/\/localhost:8888\/Pro_E_Store\/wp-content\/uploads\/2016\/12\/Jeans_Main.jpg&quot;,&quot;image_title&quot;:&quot;Jeans_Main&quot;,&quot;image_alt&quot;:&quot;Jeans_Main&quot;,&quot;image_caption&quot;:&quot;&quot;,&quot;image_srcset&quot;:&quot;&quot;,&quot;image_sizes&quot;:&quot;(max-width: 570px) 100vw, 570px&quot;,&quot;price_html&quot;:&quot;&quot;,&quot;availability_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;weight&quot;:&quot; kg&quot;,&quot;dimensions&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;max_qty&quot;:null,&quot;backorders_allowed&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_downloadable&quot;:false,&quot;is_virtual&quot;:false,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;variation_description&quot;:&quot;&quot;},{&quot;variation_id&quot;:215,&quot;variation_is_visible&quot;:true,&quot;variation_is_active&quot;:true,&quot;is_purchasable&quot;:true,&quot;display_price&quot;:74.99,&quot;display_regular_price&quot;:74.99,&quot;attributes&quot;:{&quot;attribute_waist-eu&quot;:&quot;&quot;},&quot;image_src&quot;:&quot;http:\/\/localhost:8888\/Pro_E_Store\/wp-content\/uploads\/2016\/12\/Jeans_Main-570x600.jpg&quot;,&quot;image_link&quot;:&quot;http:\/\/localhost:8888\/Pro_E_Store\/wp-content\/uploads\/2016\/12\/Jeans_Main.jpg&quot;,&quot;image_title&quot;:&quot;Jeans_Main&quot;,&quot;image_alt&quot;:&quot;Jeans_Main&quot;,&quot;image_caption&quot;:&quot;&quot;,&quot;image_srcset&quot;:&quot;&quot;,&quot;image_sizes&quot;:&quot;(max-width: 570px) 100vw, 570px&quot;,&quot;price_html&quot;:&quot;&quot;,&quot;availability_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;weight&quot;:&quot; kg&quot;,&quot;dimensions&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;max_qty&quot;:null,&quot;backorders_allowed&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_downloadable&quot;:false,&quot;is_virtual&quot;:false,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;variation_description&quot;:&quot;&quot;}]">
+
 	
-			<div class="variations" >
-							<div class="variations_lines">
-					<div class="label"><label for="waist-eu">Waist EU</label></div>
-					<div class="value">
-						<select id="waist-eu" class="" name="attribute_waist-eu" data-attribute_name="attribute_waist-eu"" data-show_option_none="yes"><option value="">Choose an option</option><option value="34" >34</option><option value="36" >36</option><option value="38" >38</option><option value="40" >40</option><option value="42" >42</option></select><a class="reset_variations" href="#">Clear</a>					</div>
-				</div>
-	        		</div>
-
-					
-			<div class="single_variation_wrap">
-				<div class="woocommerce-variation single_variation"></div><div class="woocommerce-variation-add-to-cart variations_button">
-			<div class="quantity">
-	<input type="number" step="1" min="" max="" name="quantity" value="1" title="Qty" class="input-text qty text" size="4" pattern="[0-9]*" inputmode="numeric" />
+	
+	    	    
+	    <div class="clearfix"></div>
+	    
+	    <div class="qty">Qty</div>
+	    
+		<form class="cart" method="post" enctype='multipart/form-data'>
+		 	
+		 	<div class="quantity">
+	<input type="number" step="1" min="1" max="" name="quantity" value="1" title="Qty" class="input-text qty text" size="4" pattern="[0-9]*" inputmode="numeric" />
 </div>
-		<button type="submit" class="single_add_to_cart_button button alt">Add to cart</button>
-	<input type="hidden" name="add-to-cart" value="204" />
-	<input type="hidden" name="product_id" value="204" />
-	<input type="hidden" name="variation_id" class="variation_id" value="0" />
-</div>
-			</div>
 
-						
-	</form>
+		 	<input type="hidden" name="add-to-cart" value="170" />
 
+		 	<button type="submit" class="single_add_to_cart_button button alt">Add to cart</button>
+
+					</form>
+
+		
+	
 						
 						</div>
 			
@@ -573,10 +530,10 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
                 
                 				
 				<div class="product_socials_wrapper_inner">
-					<a href="//www.facebook.com/sharer.php?u=http://localhost:8888/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/" target="_blank" class="social_media social_media_facebook"><i class="fa fa-facebook"></i></a>
-					<a href="//twitter.com/share?url=http://localhost:8888/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/" target="_blank" class="social_media social_media_twitter"><i class="fa fa-twitter"></i></a>
-					<a href="//plus.google.com/share?url=http://localhost:8888/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/" target="_blank" class="social_media social_media_googleplus"><i class="fa fa-google-plus"></i></a>
-					<a href="//pinterest.com/pin/create/button/?url=http://localhost:8888/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/&amp;media=http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Jeans_Main.jpg&amp;description=Mens+Jeans+Embroidery+Trousers+Jeans" target="_blank" class="social_media social_media_pinterest"><i class="fa fa-pinterest"></i></a>
+					<a href="//www.facebook.com/sharer.php?u=http://localhost:8888/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/" target="_blank" class="social_media social_media_facebook"><i class="fa fa-facebook"></i></a>
+					<a href="//twitter.com/share?url=http://localhost:8888/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/" target="_blank" class="social_media social_media_twitter"><i class="fa fa-twitter"></i></a>
+					<a href="//plus.google.com/share?url=http://localhost:8888/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/" target="_blank" class="social_media social_media_googleplus"><i class="fa fa-google-plus"></i></a>
+					<a href="//pinterest.com/pin/create/button/?url=http://localhost:8888/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/&amp;media=http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507.jpg&amp;description=Silver+Plated+Crystal+Chain+Bracelet+Women" target="_blank" class="social_media social_media_pinterest"><i class="fa fa-pinterest"></i></a>
 				</div><!--.product_socials_wrapper_inner-->
 				
 			</div>
@@ -594,9 +551,6 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 					
 											<li class="description_tab">
 					<a href="#tab-description">Description</a>
-						</li>
-											<li class="additional_information_tab">
-					<a href="#tab-additional_information">Additional Information</a>
 						</li>
 											<li class="reviews_tab">
 					<a href="#tab-reviews">Reviews (0)</a>
@@ -622,28 +576,6 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
             </div>
 
 		
-			<div class="panel entry-content" id="tab-additional_information">
-                <div class="row">
-                    <div class="large-8 xlarge-6 large-centered xlarge-centered columns">
-                        
-<table class="shop_attributes">
-
-	
-		
-		
-	
-			<tr class="">
-			<th>Waist EU</th>
-			<td><p>34, 36, 38, 40, 42</p>
-</td>
-		</tr>
-	
-</table>
-                    </div>
-                </div>
-            </div>
-
-		
 			<div class="panel entry-content" id="tab-reviews">
                 <div class="row">
                     <div class="large-8 xlarge-6 large-centered xlarge-centered columns">
@@ -664,7 +596,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 				<div id="review_form_wrapper">
 					<div id="review_form">
 							<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Be the first to review &ldquo;Mens Jeans Embroidery Trousers Jeans&rdquo; <small><a rel="nofollow" id="cancel-comment-reply-link" href="/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://localhost:8888/Pro_E_Store/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+		<h3 id="reply-title" class="comment-reply-title">Be the first to review &ldquo;Silver Plated Crystal Chain Bracelet Women&rdquo; <small><a rel="nofollow" id="cancel-comment-reply-link" href="/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://localhost:8888/Pro_E_Store/wp-comments-post.php" method="post" id="commentform" class="comment-form">
 				<p class="comment-form-rating"><label for="rating">Your Rating</label><select name="rating" id="rating">
 									<option value="">Rate&hellip;</option>
 									<option value="5">Perfect</option>
@@ -672,9 +604,9 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 									<option value="3">Average</option>
 									<option value="2">Not that bad</option>
 									<option value="1">Very Poor</option>
-								</select></p><p class="comment-form-comment"><label for="comment">Your Review</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='204' id='comment_post_ID' />
+								</select></p><p class="comment-form-comment"><label for="comment">Your Review</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='170' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><input type="hidden" id="_wp_unfiltered_html_comment_disabled" name="_wp_unfiltered_html_comment_disabled" value="87f693630e" /><script>(function(){if(window===window.parent){document.getElementById('_wp_unfiltered_html_comment_disabled').name='_wp_unfiltered_html_comment';}})();</script>
+</p><input type="hidden" id="_wp_unfiltered_html_comment_disabled" name="_wp_unfiltered_html_comment_disabled" value="7766583e51" /><script>(function(){if(window===window.parent){document.getElementById('_wp_unfiltered_html_comment_disabled').name='_wp_unfiltered_html_comment';}})();</script>
 			</form>
 			</div><!-- #respond -->
 						</div>
@@ -696,11 +628,11 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 
 	
 	
-		<span class="sku_wrapper">SKU: <span class="sku" itemprop="sku">N/A</span></span>
+		<span class="sku_wrapper">SKU: <span class="sku" itemprop="sku">AWT-74284-131476</span></span>
 
 	
-	<span class="posted_in">Categories: <a href="http://localhost:8888/Pro_E_Store/product-category/casual/" rel="tag">Casual</a><span class="product_meta_separator">,</span> <a href="http://localhost:8888/Pro_E_Store/product-category/mens/jeans/" rel="tag">Jeans</a><span class="product_meta_separator">,</span> <a href="http://localhost:8888/Pro_E_Store/product-category/mens/" rel="tag">Mens</a></span>
-	<span class="tagged_as">Tags: <a href="http://localhost:8888/Pro_E_Store/product-tag/casual/" rel="tag">Casual</a><span class="product_meta_separator">,</span> <a href="http://localhost:8888/Pro_E_Store/product-tag/jeans/" rel="tag">Jeans</a><span class="product_meta_separator">,</span> <a href="http://localhost:8888/Pro_E_Store/product-tag/mens/" rel="tag">Mens</a></span>
+	<span class="posted_in">Category: <a href="http://localhost:8888/Pro_E_Store/product-category/bracelets/" rel="tag">Bracelets</a></span>
+	<span class="tagged_as">Tags: <a href="http://localhost:8888/Pro_E_Store/product-tag/bracelets/" rel="tag">Bracelets</a><span class="product_meta_separator">,</span> <a href="http://localhost:8888/Pro_E_Store/product-tag/casual/" rel="tag">Casual</a><span class="product_meta_separator">,</span> <a href="http://localhost:8888/Pro_E_Store/product-tag/womens/" rel="tag">Womens</a></span>
 	
 </div>
 	
@@ -711,9 +643,9 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
         </div><!-- .columns -->
     </div><!-- .row -->
     
-    <meta itemprop="url" content="http://localhost:8888/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/" />
+    <meta itemprop="url" content="http://localhost:8888/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/" />
 
-</div><!-- #product-204 -->
+</div><!-- #product-170 -->
 
 <div class="row">
     <div class="xlarge-9 xlarge-centered columns">
@@ -765,404 +697,6 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 		<div class="product_thumbnail_wrapper ">
 			
 			<div class="product_thumbnail with_second_image">
-				<a href="http://localhost:8888/Pro_E_Store/product/infinity-leather-beads-bracelet-unisex/">
-					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_leather_2-350x435.jpg)"></span>
-					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_leather_1-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_leather_1-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_leather_1-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_leather_1-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_leather_1-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
-			</div><!--.product_thumbnail-->
-			
-							            			
-							            			
-						
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-200">
-		    <div class="yith-wcwl-add-button show" style="display:block">
-
-	        
-<a href="/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/?add_to_wishlist=200" rel="nofollow" data-product-id="200" data-product-type="simple" class="add_to_wishlist" >
-        Add to Wishlist</a>
-<img src="http://localhost:8888/Pro_E_Store/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
-	    </div>
-
-	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
-	        <span class="feedback">Product added!</span>
-	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	    </div>
-
-	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
-	        <span class="feedback">The product is already in the wishlist!</span>
-	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	    </div>
-
-	    <div style="clear:both"></div>
-	    <div class="yith-wcwl-wishlistaddresponse"></div>
-	
-</div>
-
-<div class="clear"></div>            
-            <a href="#" id="product_id_200" class="button getbowtied_product_quick_view_button" data-product_id="200">Quick View</a>			
-		</div><!--.product_thumbnail_wrapper-->
-				
-		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/infinity-leather-beads-bracelet-unisex/">Infinity Leather &#038; Beads Bracelet (Unisex)</a></h3>
-		
-                <div class="archive-product-rating">
-			
-		</div>
-        
-       
-	
-			<div class="product_after_shop_loop">
-				
-				<div class="product_after_shop_loop_switcher">
-					
-					<div class="product_after_shop_loop_price">
-						
-					</div>
-
-										
-					<div class="product_after_shop_loop_buttons">
-						</a><a rel="nofollow" href="http://localhost:8888/Pro_E_Store/product/infinity-leather-beads-bracelet-unisex/" data-quantity="1" data-product_id="200" data-product_sku="" class="button product_type_simple ajax_add_to_cart">Read more</a>					</div>
-
-										
-				</div>
-				
-			</div>
-
-		
-	
-</li>
-            
-                
-<li class="">
-   
-		
-
-				
-				
-				
-		<div class="product_thumbnail_wrapper ">
-			
-			<div class="product_thumbnail with_second_image">
-				<a href="http://localhost:8888/Pro_E_Store/product/mens-watches/">
-					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/s-l1600-1-350x435.jpg)"></span>
-					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/s-l16003-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/s-l16003-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/s-l16003-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/s-l16003-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/s-l16003-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/s-l16003-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
-			</div><!--.product_thumbnail-->
-			
-							            			
-							            			
-						
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-120">
-		    <div class="yith-wcwl-add-button show" style="display:block">
-
-	        
-<a href="/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/?add_to_wishlist=120" rel="nofollow" data-product-id="120" data-product-type="simple" class="add_to_wishlist" >
-        Add to Wishlist</a>
-<img src="http://localhost:8888/Pro_E_Store/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
-	    </div>
-
-	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
-	        <span class="feedback">Product added!</span>
-	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	    </div>
-
-	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
-	        <span class="feedback">The product is already in the wishlist!</span>
-	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	    </div>
-
-	    <div style="clear:both"></div>
-	    <div class="yith-wcwl-wishlistaddresponse"></div>
-	
-</div>
-
-<div class="clear"></div>            
-            <a href="#" id="product_id_120" class="button getbowtied_product_quick_view_button" data-product_id="120">Quick View</a>			
-		</div><!--.product_thumbnail_wrapper-->
-				
-		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/mens-watches/">Men&#8217;s Watches</a></h3>
-		
-                <div class="archive-product-rating">
-			
-		</div>
-        
-       
-	
-			<div class="product_after_shop_loop">
-				
-				<div class="product_after_shop_loop_switcher">
-					
-					<div class="product_after_shop_loop_price">
-						
-	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>120.00</span></span>
-					</div>
-
-										
-					<div class="product_after_shop_loop_buttons">
-						</a><a rel="nofollow" href="/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/?add-to-cart=120" data-quantity="1" data-product_id="120" data-product_sku="AWT-75284-124776" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>					</div>
-
-										
-				</div>
-				
-			</div>
-
-		
-	
-</li>
-            
-                
-<li class="">
-   
-		
-
-				
-				
-				
-		<div class="product_thumbnail_wrapper ">
-			
-			<div class="product_thumbnail ">
-				<a href="http://localhost:8888/Pro_E_Store/product/summer-dress/">
-					<span class="product_thumbnail_background" style=""></span>
-					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Party-dress_main-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Party-dress_main-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Party-dress_main-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Party-dress_main-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Party-dress_main-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Party-dress_main-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
-			</div><!--.product_thumbnail-->
-			
-							
-	<span class="onsale">Sale!</span>
-            			
-							            			
-						
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-69">
-		    <div class="yith-wcwl-add-button show" style="display:block">
-
-	        
-<a href="/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/?add_to_wishlist=69" rel="nofollow" data-product-id="69" data-product-type="variable" class="add_to_wishlist" >
-        Add to Wishlist</a>
-<img src="http://localhost:8888/Pro_E_Store/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
-	    </div>
-
-	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
-	        <span class="feedback">Product added!</span>
-	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	    </div>
-
-	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
-	        <span class="feedback">The product is already in the wishlist!</span>
-	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	    </div>
-
-	    <div style="clear:both"></div>
-	    <div class="yith-wcwl-wishlistaddresponse"></div>
-	
-</div>
-
-<div class="clear"></div>            
-            <a href="#" id="product_id_69" class="button getbowtied_product_quick_view_button" data-product_id="69">Quick View</a>			
-		</div><!--.product_thumbnail_wrapper-->
-				
-		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/summer-dress/">Summer Dress</a></h3>
-		
-                <div class="archive-product-rating">
-			
-		</div>
-        
-       
-	
-			<div class="product_after_shop_loop">
-				
-				<div class="product_after_shop_loop_switcher">
-					
-					<div class="product_after_shop_loop_price">
-						
-	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>30.00</span>&ndash;<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>44.95</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>25.00</span>&ndash;<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>44.95</span></ins></span>
-					</div>
-
-										
-					<div class="product_after_shop_loop_buttons">
-						</a><a rel="nofollow" href="http://localhost:8888/Pro_E_Store/product/summer-dress/" data-quantity="1" data-product_id="69" data-product_sku="AWT-524789-122016" class="button product_type_variable add_to_cart_button">Select options</a>					</div>
-
-										
-				</div>
-				
-			</div>
-
-		
-	
-</li>
-            
-                
-<li class="">
-   
-		
-
-				
-				
-				
-		<div class="product_thumbnail_wrapper ">
-			
-			<div class="product_thumbnail with_second_image">
-				<a href="http://localhost:8888/Pro_E_Store/product/mens-genuine-leather-jacket/">
-					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/mens_leather_jacket_2-350x435.jpg)"></span>
-					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/mens_leather_jacket_1-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/mens_leather_jacket_1-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/mens_leather_jacket_1-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/mens_leather_jacket_1-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/mens_leather_jacket_1-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/mens_leather_jacket_1-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
-			</div><!--.product_thumbnail-->
-			
-							            			
-							            			
-						
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-88">
-		    <div class="yith-wcwl-add-button show" style="display:block">
-
-	        
-<a href="/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/?add_to_wishlist=88" rel="nofollow" data-product-id="88" data-product-type="simple" class="add_to_wishlist" >
-        Add to Wishlist</a>
-<img src="http://localhost:8888/Pro_E_Store/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
-	    </div>
-
-	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
-	        <span class="feedback">Product added!</span>
-	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	    </div>
-
-	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
-	        <span class="feedback">The product is already in the wishlist!</span>
-	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	    </div>
-
-	    <div style="clear:both"></div>
-	    <div class="yith-wcwl-wishlistaddresponse"></div>
-	
-</div>
-
-<div class="clear"></div>            
-            <a href="#" id="product_id_88" class="button getbowtied_product_quick_view_button" data-product_id="88">Quick View</a>			
-		</div><!--.product_thumbnail_wrapper-->
-				
-		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/mens-genuine-leather-jacket/">Men&#8217;s Genuine Leather Jacket</a></h3>
-		
-                <div class="archive-product-rating">
-			
-		</div>
-        
-       
-	
-			<div class="product_after_shop_loop">
-				
-				<div class="product_after_shop_loop_switcher">
-					
-					<div class="product_after_shop_loop_price">
-						
-	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>285.00</span></span>
-					</div>
-
-										
-					<div class="product_after_shop_loop_buttons">
-						</a><a rel="nofollow" href="/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/?add-to-cart=88" data-quantity="1" data-product_id="88" data-product_sku="AWT-95284-122016" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>					</div>
-
-										
-				</div>
-				
-			</div>
-
-		
-	
-</li>
-            
-                
-<li class="">
-   
-		
-
-				
-				
-				
-		<div class="product_thumbnail_wrapper ">
-			
-			<div class="product_thumbnail with_second_image">
-				<a href="http://localhost:8888/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/">
-					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_1-350x435.jpg)"></span>
-					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/bracelet_3-e1482066293507-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
-			</div><!--.product_thumbnail-->
-			
-							
-	<span class="onsale">Sale!</span>
-            			
-							            			
-						
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-170">
-		    <div class="yith-wcwl-add-button show" style="display:block">
-
-	        
-<a href="/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/?add_to_wishlist=170" rel="nofollow" data-product-id="170" data-product-type="simple" class="add_to_wishlist" >
-        Add to Wishlist</a>
-<img src="http://localhost:8888/Pro_E_Store/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
-	    </div>
-
-	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
-	        <span class="feedback">Product added!</span>
-	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	    </div>
-
-	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
-	        <span class="feedback">The product is already in the wishlist!</span>
-	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	    </div>
-
-	    <div style="clear:both"></div>
-	    <div class="yith-wcwl-wishlistaddresponse"></div>
-	
-</div>
-
-<div class="clear"></div>            
-            <a href="#" id="product_id_170" class="button getbowtied_product_quick_view_button" data-product_id="170">Quick View</a>			
-		</div><!--.product_thumbnail_wrapper-->
-				
-		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/">Silver Plated Crystal Chain Bracelet Women</a></h3>
-		
-                <div class="archive-product-rating">
-			
-		</div>
-        
-       
-	
-			<div class="product_after_shop_loop">
-				
-				<div class="product_after_shop_loop_switcher">
-					
-					<div class="product_after_shop_loop_price">
-						
-	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>34.99</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>33.99</span></ins></span>
-					</div>
-
-										
-					<div class="product_after_shop_loop_buttons">
-						</a><a rel="nofollow" href="/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/?add-to-cart=170" data-quantity="1" data-product_id="170" data-product_sku="AWT-74284-131476" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>					</div>
-
-										
-				</div>
-				
-			</div>
-
-		
-	
-</li>
-            
-                
-<li class="">
-   
-		
-
-				
-				
-				
-		<div class="product_thumbnail_wrapper ">
-			
-			<div class="product_thumbnail with_second_image">
 				<a href="http://localhost:8888/Pro_E_Store/product/rope-wristband-bracelet-unisex/">
 					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Brace_mix_1-350x435.jpg)"></span>
 					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Brace_mix_Main-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Brace_mix_Main-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Brace_mix_Main-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Brace_mix_Main-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Brace_mix_Main-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Brace_mix_Main-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
@@ -1175,7 +709,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 		    <div class="yith-wcwl-add-button show" style="display:block">
 
 	        
-<a href="/Pro_E_Store/product/mens-jeans-embroidery-trousers-jeans/?add_to_wishlist=181" rel="nofollow" data-product-id="181" data-product-type="variable" class="add_to_wishlist" >
+<a href="/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/?add_to_wishlist=181" rel="nofollow" data-product-id="181" data-product-type="variable" class="add_to_wishlist" >
         Add to Wishlist</a>
 <img src="http://localhost:8888/Pro_E_Store/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
 	    </div>
@@ -1221,6 +755,402 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 										
 					<div class="product_after_shop_loop_buttons">
 						</a><a rel="nofollow" href="http://localhost:8888/Pro_E_Store/product/rope-wristband-bracelet-unisex/" data-quantity="1" data-product_id="181" data-product_sku="AWT-21484-1311469" class="button product_type_variable add_to_cart_button">Select options</a>					</div>
+
+										
+				</div>
+				
+			</div>
+
+		
+	
+</li>
+            
+                
+<li class="">
+   
+		
+
+				
+				
+				
+		<div class="product_thumbnail_wrapper ">
+			
+			<div class="product_thumbnail with_second_image">
+				<a href="http://localhost:8888/Pro_E_Store/product/womens-leather-shoulder-bag/">
+					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_1-350x435.jpg)"></span>
+					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Purse_3-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
+			</div><!--.product_thumbnail-->
+			
+							
+	<span class="onsale">Sale!</span>
+            			
+							            			
+						
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-58">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/?add_to_wishlist=58" rel="nofollow" data-product-id="58" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="http://localhost:8888/Pro_E_Store/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>            
+            <a href="#" id="product_id_58" class="button getbowtied_product_quick_view_button" data-product_id="58">Quick View</a>			
+		</div><!--.product_thumbnail_wrapper-->
+				
+		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/womens-leather-shoulder-bag/">Womens Leather Shoulder Bag</a></h3>
+		
+                <div class="archive-product-rating">
+			
+		</div>
+        
+       
+	
+			<div class="product_after_shop_loop">
+				
+				<div class="product_after_shop_loop_switcher">
+					
+					<div class="product_after_shop_loop_price">
+						
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>130.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>99.95</span></ins></span>
+					</div>
+
+										
+					<div class="product_after_shop_loop_buttons">
+						</a><a rel="nofollow" href="/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/?add-to-cart=58" data-quantity="1" data-product_id="58" data-product_sku="AWT-54274-122016" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>					</div>
+
+										
+				</div>
+				
+			</div>
+
+		
+	
+</li>
+            
+                
+<li class="">
+   
+		
+
+				
+				
+				
+		<div class="product_thumbnail_wrapper ">
+			
+			<div class="product_thumbnail with_second_image">
+				<a href="http://localhost:8888/Pro_E_Store/product/mens-calvin-klein-relaxed/">
+					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Calvin_1-350x435.jpg)"></span>
+					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Calvin_Main-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Calvin_Main-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Calvin_Main-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Calvin_Main-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Calvin_Main-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Calvin_Main-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
+			</div><!--.product_thumbnail-->
+			
+							            			
+							            			
+						
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-216">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/?add_to_wishlist=216" rel="nofollow" data-product-id="216" data-product-type="variable" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="http://localhost:8888/Pro_E_Store/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>            
+            <a href="#" id="product_id_216" class="button getbowtied_product_quick_view_button" data-product_id="216">Quick View</a>			
+		</div><!--.product_thumbnail_wrapper-->
+				
+		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/mens-calvin-klein-relaxed/">Men&#8217;s Calvin Klein (Relaxed)</a></h3>
+		
+                <div class="archive-product-rating">
+			
+		</div>
+        
+       
+	
+			<div class="product_after_shop_loop">
+				
+				<div class="product_after_shop_loop_switcher">
+					
+					<div class="product_after_shop_loop_price">
+						
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>49.99</span></span>
+					</div>
+
+										
+					<div class="product_after_shop_loop_buttons">
+						</a><a rel="nofollow" href="http://localhost:8888/Pro_E_Store/product/mens-calvin-klein-relaxed/" data-quantity="1" data-product_id="216" data-product_sku="" class="button product_type_variable add_to_cart_button">Select options</a>					</div>
+
+										
+				</div>
+				
+			</div>
+
+		
+	
+</li>
+            
+                
+<li class="">
+   
+		
+
+				
+				
+				
+		<div class="product_thumbnail_wrapper ">
+			
+			<div class="product_thumbnail with_second_image">
+				<a href="http://localhost:8888/Pro_E_Store/product/all-purpose-dress/">
+					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_2-350x435.jpg)"></span>
+					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Mixed_dress_1-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
+			</div><!--.product_thumbnail-->
+			
+							            			
+							            			
+						
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-55">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/?add_to_wishlist=55" rel="nofollow" data-product-id="55" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="http://localhost:8888/Pro_E_Store/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>            
+            <a href="#" id="product_id_55" class="button getbowtied_product_quick_view_button" data-product_id="55">Quick View</a>			
+		</div><!--.product_thumbnail_wrapper-->
+				
+		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/all-purpose-dress/">All Purpose Dress</a></h3>
+		
+                <div class="archive-product-rating">
+			
+		</div>
+        
+       
+	
+			<div class="product_after_shop_loop">
+				
+				<div class="product_after_shop_loop_switcher">
+					
+					<div class="product_after_shop_loop_price">
+						
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>68.95</span></span>
+					</div>
+
+										
+					<div class="product_after_shop_loop_buttons">
+						</a><a rel="nofollow" href="/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/?add-to-cart=55" data-quantity="1" data-product_id="55" data-product_sku="AWT-54289-122016" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>					</div>
+
+										
+				</div>
+				
+			</div>
+
+		
+	
+</li>
+            
+                
+<li class="">
+   
+		
+
+				
+				
+				
+		<div class="product_thumbnail_wrapper ">
+			
+			<div class="product_thumbnail with_second_image">
+				<a href="http://localhost:8888/Pro_E_Store/product/crystal-bangle-gold-plated/">
+					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_5-350x435.jpg)"></span>
+					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_4-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_4-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_4-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_4-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_4-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Bracelet_4-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
+			</div><!--.product_thumbnail-->
+			
+							            			
+							            			
+						
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-174">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/?add_to_wishlist=174" rel="nofollow" data-product-id="174" data-product-type="variable" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="http://localhost:8888/Pro_E_Store/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>            
+            <a href="#" id="product_id_174" class="button getbowtied_product_quick_view_button" data-product_id="174">Quick View</a>			
+		</div><!--.product_thumbnail_wrapper-->
+				
+		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/crystal-bangle-gold-plated/">Crystal Bangle Gold Plated</a></h3>
+		
+                <div class="archive-product-rating">
+			
+		</div>
+        
+       
+	
+			<div class="product_after_shop_loop">
+				
+				<div class="product_after_shop_loop_switcher">
+					
+					<div class="product_after_shop_loop_price">
+						
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>214.99</span>&ndash;<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>340.99</span></span>
+					</div>
+
+										
+					<div class="product_after_shop_loop_buttons">
+						</a><a rel="nofollow" href="http://localhost:8888/Pro_E_Store/product/crystal-bangle-gold-plated/" data-quantity="1" data-product_id="174" data-product_sku="AWT-14284-122109" class="button product_type_variable add_to_cart_button">Select options</a>					</div>
+
+										
+				</div>
+				
+			</div>
+
+		
+	
+</li>
+            
+                
+<li class="">
+   
+		
+
+				
+				
+				
+		<div class="product_thumbnail_wrapper ">
+			
+			<div class="product_thumbnail with_second_image">
+				<a href="http://localhost:8888/Pro_E_Store/product/womens-sportscasual-shoes/">
+					<span class="product_thumbnail_background" style="background-image:url(http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Women_shoe_1-350x435.jpg)"></span>
+					<img width="350" height="435" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Women_shoe_Main-350x435.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Women_shoe_Main-350x435.jpg 350w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Women_shoe_Main-70x87.jpg 70w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Women_shoe_Main-570x708.jpg 570w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Women_shoe_Main-116x145.jpg 116w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/Women_shoe_Main-190x236.jpg 190w" sizes="(max-width: 350px) 100vw, 350px" />				</a>
+			</div><!--.product_thumbnail-->
+			
+							            			
+							            			
+						
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-248">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/Pro_E_Store/product/silver-plated-crystal-chain-bracelet-women/?add_to_wishlist=248" rel="nofollow" data-product-id="248" data-product-type="variable" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="http://localhost:8888/Pro_E_Store/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="http://localhost:8888/Pro_E_Store/wishlist/view/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>            
+            <a href="#" id="product_id_248" class="button getbowtied_product_quick_view_button" data-product_id="248">Quick View</a>			
+		</div><!--.product_thumbnail_wrapper-->
+				
+		<h3><a class="product-title-link" href="http://localhost:8888/Pro_E_Store/product/womens-sportscasual-shoes/">Women&#8217;s Sports/Casual Shoes</a></h3>
+		
+                <div class="archive-product-rating">
+			
+		</div>
+        
+       
+	
+			<div class="product_after_shop_loop">
+				
+				<div class="product_after_shop_loop_switcher">
+					
+					<div class="product_after_shop_loop_price">
+						
+					</div>
+
+										
+					<div class="product_after_shop_loop_buttons">
+						</a><a rel="nofollow" href="http://localhost:8888/Pro_E_Store/product/womens-sportscasual-shoes/" data-quantity="1" data-product_id="248" data-product_sku="AWT-20384-214284" class="button product_type_variable add_to_cart_button">Select options</a>					</div>
 
 										
 				</div>
@@ -1422,14 +1352,14 @@ var wc_single_product_params = {"i18n_required_rating_text":"Please select a rat
 <script type='text/javascript' src='//localhost:8888/Pro_E_Store/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var woocommerce_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/Pro_E_Store\/product\/mens-jeans-embroidery-trousers-jeans\/?wc-ajax=%%endpoint%%"};
+var woocommerce_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/Pro_E_Store\/product\/silver-plated-crystal-chain-bracelet-women\/?wc-ajax=%%endpoint%%"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='//localhost:8888/Pro_E_Store/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.9'></script>
 <script type='text/javascript' src='//localhost:8888/Pro_E_Store/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var wc_cart_fragments_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/Pro_E_Store\/product\/mens-jeans-embroidery-trousers-jeans\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+var wc_cart_fragments_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/Pro_E_Store\/product\/silver-plated-crystal-chain-bracelet-women\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='//localhost:8888/Pro_E_Store/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.9'></script>
@@ -1489,7 +1419,8 @@ var wc_add_to_cart_variation_params = {"i18n_no_matching_variations_text":"Sorry
 		<li id="wp-admin-bar-themes"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/themes.php">Themes</a>		</li>
 		<li id="wp-admin-bar-widgets"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/widgets.php">Widgets</a>		</li>
 		<li id="wp-admin-bar-menus"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/nav-menus.php">Menus</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%3A8888%2FPro_E_Store%2Fproduct%2Fmens-jeans-embroidery-trousers-jeans%2F">Customize</a>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%3A8888%2FPro_E_Store%2Fproduct%2Fsilver-plated-crystal-chain-bracelet-women%2F">Customize</a>		</li>
+		<li id="wp-admin-bar-updates"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/update-core.php" title="1 Plugin Update"><span class="ab-icon"></span><span class="ab-label">1</span><span class="screen-reader-text">1 Plugin Update</span></a>		</li>
 		<li id="wp-admin-bar-comments"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/edit-comments.php"><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text">0 comments awaiting moderation</span></a>		</li>
 		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/Pro_E_Store/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
 		<li id="wp-admin-bar-new-post"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/post-new.php">Post</a>		</li>
@@ -1500,21 +1431,21 @@ var wc_add_to_cart_variation_params = {"i18n_no_matching_variations_text":"Sorry
 		<li id="wp-admin-bar-new-shop_coupon"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/post-new.php?post_type=shop_coupon">Coupon</a>		</li>
 		<li id="wp-admin-bar-new-portfolio"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/post-new.php?post_type=portfolio">Portfolio Item</a>		</li>
 		<li id="wp-admin-bar-new-user"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/user-new.php">User</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-edit"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/post.php?post=204&#038;action=edit">Edit Product</a>		</li>
-		<li id="wp-admin-bar-vc_inline-admin-bar-link" class="vc_inline-link"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/post.php?vc_action=vc_inline&#038;post_id=204&#038;post_type=product">Edit with Visual Composer</a>		</li>
+		<li id="wp-admin-bar-edit"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/post.php?post=170&#038;action=edit">Edit Product</a>		</li>
+		<li id="wp-admin-bar-vc_inline-admin-bar-link" class="vc_inline-link"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/post.php?vc_action=vc_inline&#038;post_id=170&#038;post_type=product">Edit with Visual Composer</a>		</li>
 		<li id="wp-admin-bar-revslider" class="menupop revslider-menu"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/Pro_E_Store/wp-admin/admin.php?page=revslider"><span class="rs-label">Slider Revolution</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-revslider-default" class="ab-submenu">
 		<li id="wp-admin-bar-awt_ecommerce" class="revslider-sub-menu"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/admin.php?page=revslider&#038;view=slide&#038;id=new&#038;slider=1"><span class="rs-label" data-alias="awt_ecommerce">awt_ecommerce</span></a>		</li></ul></div>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
 		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost:8888/Pro_E_Store/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div>		</li>
 		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/Pro_E_Store/wp-admin/profile.php">Howdy, josembi<img alt='' src='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=26&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=52&amp;d=mm&amp;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
 		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://localhost:8888/Pro_E_Store/wp-admin/profile.php"><img alt='' src='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>josembi</span></a>		</li>
 		<li id="wp-admin-bar-edit-profile"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/profile.php">Edit My Profile</a>		</li>
-		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-login.php?action=logout&#038;_wpnonce=54a0ed771d">Log Out</a>		</li></ul></div>		</li></ul>			</div>
-						<a class="screen-reader-shortcut" href="http://localhost:8888/Pro_E_Store/wp-login.php?action=logout&#038;_wpnonce=54a0ed771d">Log Out</a>
+		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-login.php?action=logout&#038;_wpnonce=1aba9c874a">Log Out</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost:8888/Pro_E_Store/wp-login.php?action=logout&#038;_wpnonce=1aba9c874a">Log Out</a>
 					</div>
 
 		    
 </body>
 
 </html>
-<!-- Dynamic page generated in 2.096 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-12-18 18:29:14 -->
+<!-- Dynamic page generated in 1.159 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-19 20:15:46 -->
