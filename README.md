@@ -1,6 +1,6 @@
 <div align="center">
 <h1>E-Commerce Website</h1> 
-<h2>Synopsis of Software Development</h2>
+<h2>Software Development Documentation</h2>
   <h3>
     <a href="https://en.wikipedia.org/wiki/WordPress">
       Wordpress

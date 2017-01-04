@@ -359,9 +359,17 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 </div></div></div></div><div style=""class="row normal_height vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="boxed-row"><div class="row vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p>This is the page you were looking for, so it does actually exist. It may not have been moved, or removed altogether. Perhaps you can stay or return back to the site’s homepage and see if you can figure out some &#8220;about info&#8221; for your future <a href="https://en.wikipedia.org/wiki/E-commerce" target="_blank">e-commerce</a> store.</p>
-<p>This is a demo page, which of course is part of this website. Do not make any purchases from this website, because as I have outlined many times, it is a demo e-commerce store. I&#8217;ve designed this for view only options or as  a mock up for all those who want to get an online store designed for them.</p>
-<p>If you accidentally purchase some items, contact us immediately for a refund. If three days (72 hours) pass and no refund is requested, the money will be forwarded to a charity group.</p>
+			<p>A little bit about the Appwebtech. We are a software company that specializes in developing high quality custom websites, web applications and mobile apps. As globalization continues to develop and influence businesses both locally and internationally, then we strive to get talent from every corner of the globe (not sure if the globe has corners though :-)).</p>
+<p>We are a team of three permanent developers and designers highly qualified and experienced with the latest web technologies and trends. We do collaborate with other part time freelancers who work for us on specific tasks within a project when need arises. As diversity continues to be of paramount importance in any company, our clientele finds satisfaction wherever they are in the world whether in Asia, Europe, or even America; which are the main demographics that we currently serve.</p>
+<p>&nbsp;</p>
+<hr />
+<p>Zac is a <strong>back-end developer</strong> with a background in <strong>Computer Science</strong>. He is a hardcore <strong>C++ programmer</strong> and <strong>database administrator</strong>. His main speciality is in back end technologies but can do front end design as well.</p>
+<p>&nbsp;</p>
+<hr />
+<p>Wang is a <strong>front-end designer</strong> with extensive experience in graphics. Her background education is in the <strong>Arts</strong> but she was always fascinated by technology from a young age. She graduated from the <strong>code school</strong> last year and joined Appwebtech. She has made amazing projects for non profit organizations and currently mentors young girls who want to join the tech industry.</p>
+<p>&nbsp;</p>
+<hr />
+<p>Joseph is the <strong>Founder and CEO</strong> of Appwebtech. He has a background in <strong>Engineering</strong>. He ventured in tech as a freelancer designing websites for startups and small companies. He later studied <strong>Entrepreneurship</strong> and shipped his MVP in 2015, shortly after launching Appwebtech. He is a <strong>Full-stack web developer</strong> and designs apps in <strong>Android</strong> and <strong>iOS</strong> platforms.</p>
 
 		</div>
 	</div>
@@ -370,7 +378,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 </div></div></div></div><div style=""class="row normal_height vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<h2 style="text-align: center;">Our Team</h2>
+			<h3 style="text-align: center;">The Team</h3>
 
 		</div>
 	</div>
@@ -378,29 +386,14 @@ var wc_add_to_cart_params = {"ajax_url":"\/Pro_E_Store\/wp-admin\/admin-ajax.php
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="150" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/IMG_9345_Monochrome-150x150.jpg" class="vc_single_image-img attachment-thumbnail" alt="" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="150" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/zac-150x150.jpg" class="vc_single_image-img attachment-thumbnail" alt="" /></div>
 		</figure>
 	</div>
 
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: center;">Joseph Mwania<br />
-Developer</p>
-
-		</div>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_single_image wpb_content_element vc_align_center">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="150" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/IMG_9345-150x150.jpg" class="vc_single_image-img attachment-thumbnail" alt="" /></div>
-		</figure>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<p style="text-align: center;">Joseph Mwania<br />
-Designer</p>
+			<p style="text-align: center;">Zac<br />
+Developer (Mumbai)</p>
 
 		</div>
 	</div>
@@ -414,8 +407,23 @@ Designer</p>
 
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: center;">Joseph Mwania<br />
-Designer</p>
+			<p style="text-align: center;">Joseph<br />
+Founder &amp; CEO (EU)</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="150" src="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/wang-150x150.jpg" class="vc_single_image-img attachment-thumbnail" alt="" srcset="http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/wang-150x150.jpg 150w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/wang-300x300.jpg 300w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/wang-768x768.jpg 768w, http://localhost:8888/Pro_E_Store/wp-content/uploads/2016/12/wang.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">Wang<br />
+Designer (Shenzhen)</p>
 
 		</div>
 	</div>
@@ -712,7 +720,7 @@ var wc_add_to_cart_variation_params = {"i18n_no_matching_variations_text":"Sorry
 		<li id="wp-admin-bar-widgets"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/widgets.php">Widgets</a>		</li>
 		<li id="wp-admin-bar-menus"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/nav-menus.php">Menus</a>		</li></ul></div>		</li>
 		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%3A8888%2FPro_E_Store%2Fabout%2F">Customize</a>		</li>
-		<li id="wp-admin-bar-updates"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/update-core.php" title="1 Plugin Update"><span class="ab-icon"></span><span class="ab-label">1</span><span class="screen-reader-text">1 Plugin Update</span></a>		</li>
+		<li id="wp-admin-bar-updates"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/update-core.php" title="2 Plugin Updates"><span class="ab-icon"></span><span class="ab-label">2</span><span class="screen-reader-text">2 Plugin Updates</span></a>		</li>
 		<li id="wp-admin-bar-comments"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/edit-comments.php"><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text">0 comments awaiting moderation</span></a>		</li>
 		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/Pro_E_Store/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
 		<li id="wp-admin-bar-new-post"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/post-new.php">Post</a>		</li>
@@ -731,13 +739,13 @@ var wc_add_to_cart_variation_params = {"i18n_no_matching_variations_text":"Sorry
 		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/Pro_E_Store/wp-admin/profile.php">Howdy, josembi<img alt='' src='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=26&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=52&amp;d=mm&amp;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
 		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://localhost:8888/Pro_E_Store/wp-admin/profile.php"><img alt='' src='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c1e55d873516418e117586eb80a8a26c?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>josembi</span></a>		</li>
 		<li id="wp-admin-bar-edit-profile"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-admin/profile.php">Edit My Profile</a>		</li>
-		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-login.php?action=logout&#038;_wpnonce=698ce58fef">Log Out</a>		</li></ul></div>		</li></ul>			</div>
-						<a class="screen-reader-shortcut" href="http://localhost:8888/Pro_E_Store/wp-login.php?action=logout&#038;_wpnonce=698ce58fef">Log Out</a>
+		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost:8888/Pro_E_Store/wp-login.php?action=logout&#038;_wpnonce=71b230adb5">Log Out</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost:8888/Pro_E_Store/wp-login.php?action=logout&#038;_wpnonce=71b230adb5">Log Out</a>
 					</div>
 
 		    
 </body>
 
 </html>
-<!-- Dynamic page generated in 1.652 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-12-20 22:23:38 -->
+<!-- Dynamic page generated in 1.160 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-01-04 11:01:53 -->
